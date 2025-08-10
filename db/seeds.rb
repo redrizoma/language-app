@@ -16,7 +16,7 @@ italian = Language.create!(
 )
 
 spanish = Language.create!(
-  name: "Spanish", 
+  name: "Spanish",
   code: "es",
   flag_emoji: "🇪🇸",
   active: true
@@ -39,11 +39,11 @@ german = Language.create!(
 # Create Italian lessons
 puts "Creating Italian lessons..."
 italian_lessons = [
-  { 
-    title: "Italian Greetings", 
-    description: "Learn basic greetings and introductions", 
-    level: "A1", 
-    lesson_type: "vocabulary", 
+  {
+    title: "Italian Greetings",
+    description: "Learn basic greetings and introductions",
+    level: "A1",
+    lesson_type: "vocabulary",
     position: 1,
     content: {
       introduction: "In this lesson, you'll learn essential Italian greetings",
@@ -58,20 +58,20 @@ italian_lessons = [
         { italian: "Come sta?", english: "How are you? (formal)" }
       ],
       exercises: [
-        { 
-          type: "multiple_choice", 
-          question: "How do you say 'Good morning' in Italian?", 
-          options: ["Ciao", "Buongiorno", "Arrivederci", "Buonasera"], 
-          correct: 1 
+        {
+          type: "multiple_choice",
+          question: "How do you say 'Good morning' in Italian?",
+          options: [ "Ciao", "Buongiorno", "Arrivederci", "Buonasera" ],
+          correct: 1
         }
       ]
     }
   },
-  { 
-    title: "Numbers 1-10", 
-    description: "Learn to count from 1 to 10 in Italian", 
-    level: "A1", 
-    lesson_type: "vocabulary", 
+  {
+    title: "Numbers 1-10",
+    description: "Learn to count from 1 to 10 in Italian",
+    level: "A1",
+    lesson_type: "vocabulary",
     position: 2,
     content: {
       introduction: "Numbers are essential for daily communication",
@@ -84,11 +84,11 @@ italian_lessons = [
       ]
     }
   },
-  { 
-    title: "Present Tense - Essere", 
-    description: "Master the verb 'to be' in present tense", 
-    level: "A1", 
-    lesson_type: "grammar", 
+  {
+    title: "Present Tense - Essere",
+    description: "Master the verb 'to be' in present tense",
+    level: "A1",
+    lesson_type: "grammar",
     position: 3,
     content: {
       introduction: "The verb 'essere' (to be) is one of the most important verbs in Italian",
@@ -102,11 +102,11 @@ italian_lessons = [
       }
     }
   },
-  { 
-    title: "Family Members", 
-    description: "Learn vocabulary for family members", 
-    level: "A1", 
-    lesson_type: "vocabulary", 
+  {
+    title: "Family Members",
+    description: "Learn vocabulary for family members",
+    level: "A1",
+    lesson_type: "vocabulary",
     position: 4,
     content: {
       vocabulary: [
@@ -117,11 +117,11 @@ italian_lessons = [
       ]
     }
   },
-  { 
-    title: "At the Restaurant", 
-    description: "Essential phrases for dining out", 
-    level: "A1", 
-    lesson_type: "reading", 
+  {
+    title: "At the Restaurant",
+    description: "Essential phrases for dining out",
+    level: "A1",
+    lesson_type: "reading",
     position: 5,
     content: {
       dialogue: "A typical conversation at an Italian restaurant",

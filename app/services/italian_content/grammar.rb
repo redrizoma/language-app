@@ -175,9 +175,9 @@ module ItalianContent
         content: {
           explanation: "Numbers are essential for prices, ages, quantities, and time",
           numbers: {
-            "0-10": ["zero", "uno", "due", "tre", "quattro", "cinque", "sei", "sette", "otto", "nove", "dieci"],
-            "11-20": ["undici", "dodici", "tredici", "quattordici", "quindici", "sedici", "diciassette", "diciotto", "diciannove", "venti"],
-            "tens": ["dieci", "venti", "trenta", "quaranta", "cinquanta", "sessanta", "settanta", "ottanta", "novanta", "cento"]
+            "0-10": [ "zero", "uno", "due", "tre", "quattro", "cinque", "sei", "sette", "otto", "nove", "dieci" ],
+            "11-20": [ "undici", "dodici", "tredici", "quattordici", "quindici", "sedici", "diciassette", "diciotto", "diciannove", "venti" ],
+            "tens": [ "dieci", "venti", "trenta", "quaranta", "cinquanta", "sessanta", "settanta", "ottanta", "novanta", "cento" ]
           },
           rules: [
             "21-29: venti + number (ventuno, ventidue...)",
@@ -266,8 +266,8 @@ module ItalianContent
             }
           },
           common_verbs: {
-            standard: ["aprire", "dormire", "partire", "sentire", "servire"],
-            isc_type: ["capire", "finire", "preferire", "pulire", "spedire"]
+            standard: [ "aprire", "dormire", "partire", "sentire", "servire" ],
+            isc_type: [ "capire", "finire", "preferire", "pulire", "spedire" ]
           },
           examples: [
             { it: "Dormo otto ore", en: "I sleep eight hours" },
@@ -329,7 +329,7 @@ module ItalianContent
         content: {
           explanation: "Possessive adjectives agree with the thing possessed, not the possessor",
           forms: {
-            my: { 
+            my: {
               masculine_singular: "il mio",
               feminine_singular: "la mia",
               masculine_plural: "i miei",
@@ -534,15 +534,15 @@ module ItalianContent
           conjugations: {
             potere: {
               meaning: "can/to be able",
-              forms: ["posso", "puoi", "può", "possiamo", "potete", "possono"]
+              forms: [ "posso", "puoi", "può", "possiamo", "potete", "possono" ]
             },
             volere: {
               meaning: "to want",
-              forms: ["voglio", "vuoi", "vuole", "vogliamo", "volete", "vogliono"]
+              forms: [ "voglio", "vuoi", "vuole", "vogliamo", "volete", "vogliono" ]
             },
             dovere: {
               meaning: "must/have to",
-              forms: ["devo", "devi", "deve", "dobbiamo", "dovete", "devono"]
+              forms: [ "devo", "devi", "deve", "dobbiamo", "dovete", "devono" ]
             }
           },
           examples: [
@@ -699,7 +699,7 @@ module ItalianContent
             quello: {
               meaning: "that/those (far)",
               rules: "Follows same pattern as definite articles",
-              forms: ["quel", "quello", "quella", "quell'", "quei", "quegli", "quelle"]
+              forms: [ "quel", "quello", "quella", "quell'", "quei", "quegli", "quelle" ]
             }
           },
           examples: [

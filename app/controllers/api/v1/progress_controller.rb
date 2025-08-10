@@ -6,10 +6,10 @@ class Api::V1::ProgressController < ApplicationController
       recent_lessons: recent_lessons,
       statistics: overall_statistics
     }
-    
+
     render json: user_progress, status: :ok
   end
-  
+
   def language_progress
     current_user.user_languages.includes(:language).map do |user_language|
       language = user_language.language
@@ -19,7 +19,7 @@ class Api::V1::ProgressController < ApplicationController
                                       .where(lessons: { language_id: language.id })
                                       .completed
                                       .count
-      
+
       {
         language: {
           id: language.id,
@@ -37,7 +37,7 @@ class Api::V1::ProgressController < ApplicationController
       }
     end
   end
-  
+
   def recent_lessons
     current_user.user_progresses
                 .includes(lesson: :language)
@@ -58,10 +58,10 @@ class Api::V1::ProgressController < ApplicationController
       }
     end
   end
-  
+
   def overall_statistics
     all_progress = current_user.user_progresses
-    
+
     {
       total_lessons_attempted: all_progress.count,
       total_lessons_completed: all_progress.completed.count,
@@ -71,9 +71,9 @@ class Api::V1::ProgressController < ApplicationController
       languages_learning: current_user.languages.count
     }
   end
-  
+
   private
-  
+
   def user_summary
     {
       id: current_user.id,
@@ -84,21 +84,21 @@ class Api::V1::ProgressController < ApplicationController
       member_since: current_user.created_at
     }
   end
-  
+
   def get_next_lesson(language)
     completed_lesson_ids = current_user.user_progresses
                                       .joins(:lesson)
                                       .where(lessons: { language_id: language.id })
                                       .completed
                                       .pluck(:lesson_id)
-    
+
     next_lesson = language.lessons
                          .where.not(id: completed_lesson_ids)
                          .order(:position)
                          .first
-    
+
     return nil unless next_lesson
-    
+
     {
       id: next_lesson.id,
       title: next_lesson.title,
@@ -107,7 +107,7 @@ class Api::V1::ProgressController < ApplicationController
       position: next_lesson.position
     }
   end
-  
+
   def calculate_streak
     # Simple streak calculation - consecutive days with completed lessons
     dates = current_user.user_progresses
@@ -117,12 +117,12 @@ class Api::V1::ProgressController < ApplicationController
                        .pluck(:completed_at)
                        .map(&:to_date)
                        .uniq
-    
+
     return 0 if dates.empty?
-    
+
     streak = 1
     current_date = dates.first
-    
+
     dates[1..-1].each do |date|
       if current_date - date == 1
         streak += 1
@@ -131,13 +131,13 @@ class Api::V1::ProgressController < ApplicationController
         break
       end
     end
-    
+
     # Check if streak is still active (includes today or yesterday)
     today = Date.current
     if dates.first != today && dates.first != today - 1
       streak = 0
     end
-    
+
     streak
   end
 end

@@ -36,17 +36,17 @@ gem "thruster", require: false
 # gem "rack-cors"
 
 # CORS for API access
-gem 'rack-cors'
+gem "rack-cors"
 
 # Serialization
-gem 'active_model_serializers', '~> 0.10.0'
+gem "active_model_serializers", "~> 0.10.0"
 
 # Authentication (we'll use this later)
-gem 'bcrypt', '~> 3.1.7'
-gem 'jwt'
+gem "bcrypt", "~> 3.1.7"
+gem "jwt"
 
 # Pagination
-gem 'kaminari'
+gem "kaminari"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
@@ -59,11 +59,11 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 
   # Debugging
-  gem 'pry-rails'
-  gem 'pry-byebug'
-  
+  gem "pry-rails"
+  gem "pry-byebug"
+
   # Testing
-  gem 'rspec-rails', '~> 6.0'
-  gem 'factory_bot_rails'
-  gem 'faker'
+  gem "rspec-rails", "~> 6.0"
+  gem "factory_bot_rails"
+  gem "faker"
 end

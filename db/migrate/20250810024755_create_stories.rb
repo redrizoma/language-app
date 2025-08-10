@@ -13,12 +13,12 @@ class CreateStories < ActiveRecord::Migration[7.1]
       t.jsonb :vocabulary, default: {}
       t.jsonb :grammar_points, default: {}
       t.jsonb :questions, default: {}
-      
+
       t.timestamps
     end
-    
-    add_index :stories, [:language_id, :position], unique: true
-    add_index :stories, [:language_id, :level]
+
+    add_index :stories, [ :language_id, :position ], unique: true
+    add_index :stories, [ :language_id, :level ]
     add_index :stories, :difficulty
   end
 end

@@ -13,6 +13,6 @@ class CreateLessons < ActiveRecord::Migration[7.1]
     end
 
     add_index :lessons, :position
-    add_index :lessons, [:language_id, :level]
+    add_index :lessons, [ :language_id, :level ]
   end
 end

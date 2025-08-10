@@ -24,12 +24,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present tense - first person", "Reflexive verbs", "Time expressions"]
+          points: [ "Present tense - first person", "Reflexive verbs", "Time expressions" ]
         },
         questions: [
-          { question: "Dove abita Marco?", options: ["A Milano", "A Roma", "A Napoli"], correct: 1 },
-          { question: "Come va al lavoro?", options: ["In macchina", "In autobus", "A piedi"], correct: 1 },
-          { question: "A che ora si sveglia?", options: ["Alle sei", "Alle sette", "Alle otto"], correct: 1 }
+          { question: "Dove abita Marco?", options: [ "A Milano", "A Roma", "A Napoli" ], correct: 1 },
+          { question: "Come va al lavoro?", options: [ "In macchina", "In autobus", "A piedi" ], correct: 1 },
+          { question: "A che ora si sveglia?", options: [ "Alle sei", "Alle sette", "Alle otto" ], correct: 1 }
         ]
       },
 
@@ -54,11 +54,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present tense", "Direct object pronouns (lo)", "Sequence words (prima, poi, dopo)"]
+          points: [ "Present tense", "Direct object pronouns (lo)", "Sequence words (prima, poi, dopo)" ]
         },
         questions: [
-          { question: "Cosa compra nel reparto frutta?", options: ["Mele e pere", "Mele e banane", "Banane e arance"], correct: 1 },
-          { question: "Come paga?", options: ["In contanti", "Con la carta", "Con un assegno"], correct: 1 }
+          { question: "Cosa compra nel reparto frutta?", options: [ "Mele e pere", "Mele e banane", "Banane e arance" ], correct: 1 },
+          { question: "Come paga?", options: [ "In contanti", "Con la carta", "Con un assegno" ], correct: 1 }
         ]
       },
 
@@ -83,11 +83,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Reflexive verb: chiamarsi", "Present tense third person", "Anche/anch'io"]
+          points: [ "Reflexive verb: chiamarsi", "Present tense third person", "Anche/anch'io" ]
         },
         questions: [
-          { question: "Come si chiama il nuovo amico?", options: ["Marco", "Luca", "Paolo"], correct: 1 },
-          { question: "Cosa studia Luca?", options: ["Matematica", "Lingue", "Storia"], correct: 1 }
+          { question: "Come si chiama il nuovo amico?", options: [ "Marco", "Luca", "Paolo" ], correct: 1 },
+          { question: "Cosa studia Luca?", options: [ "Matematica", "Lingue", "Storia" ], correct: 1 }
         ]
       },
 
@@ -112,11 +112,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Possessive adjectives", "Present tense plural forms", "Numbers (vent'anni)"]
+          points: [ "Possessive adjectives", "Present tense plural forms", "Numbers (vent'anni)" ]
         },
         questions: [
-          { question: "Quanti anni compie la sorella?", options: ["18 anni", "20 anni", "21 anni"], correct: 1 },
-          { question: "Cosa prepara la mamma?", options: ["Una torta al cioccolato", "Una torta alla frutta", "I biscotti"], correct: 0 }
+          { question: "Quanti anni compie la sorella?", options: [ "18 anni", "20 anni", "21 anni" ], correct: 1 },
+          { question: "Cosa prepara la mamma?", options: [ "Una torta al cioccolato", "Una torta alla frutta", "I biscotti" ], correct: 0 }
         ]
       },
 
@@ -141,11 +141,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Adjective agreement", "Reflexive verbs (alzarsi, presentarsi)", "Mi piace construction"]
+          points: [ "Adjective agreement", "Reflexive verbs (alzarsi, presentarsi)", "Mi piace construction" ]
         },
         questions: [
-          { question: "Come si sente la ragazza?", options: ["Felice", "Nervosa", "Arrabbiata"], correct: 1 },
-          { question: "Com'è l'insegnante?", options: ["Vecchio e serio", "Giovane e sorridente", "Alto e severo"], correct: 1 }
+          { question: "Come si sente la ragazza?", options: [ "Felice", "Nervosa", "Arrabbiata" ], correct: 1 },
+          { question: "Com'è l'insegnante?", options: [ "Vecchio e serio", "Giovane e sorridente", "Alto e severo" ], correct: 1 }
         ]
       },
 
@@ -170,11 +170,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Weather expressions", "Modal verbs (posso)", "Present tense activities"]
+          points: [ "Weather expressions", "Modal verbs (posso)", "Present tense activities" ]
         },
         questions: [
-          { question: "Perché resta a casa?", options: ["È malata", "Piove molto", "È stanca"], correct: 1 },
-          { question: "Come si chiama il gatto?", options: ["Micio", "Felix", "Tom"], correct: 0 }
+          { question: "Perché resta a casa?", options: [ "È malata", "Piove molto", "È stanca" ], correct: 1 },
+          { question: "Come si chiama il gatto?", options: [ "Micio", "Felix", "Tom" ], correct: 0 }
         ]
       },
 
@@ -199,11 +199,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present tense choices", "Mentre + present", "Superlatives (buonissimo)"]
+          points: [ "Present tense choices", "Mentre + present", "Superlatives (buonissimo)" ]
         },
         questions: [
-          { question: "Cosa ordina il papà?", options: ["La pasta", "La pizza", "Il pesce"], correct: 1 },
-          { question: "Com'è il cibo?", options: ["Buono", "Buonissimo", "Cattivo"], correct: 1 }
+          { question: "Cosa ordina il papà?", options: [ "La pasta", "La pizza", "Il pesce" ], correct: 1 },
+          { question: "Com'è il cibo?", options: [ "Buono", "Buonissimo", "Cattivo" ], correct: 1 }
         ]
       },
 
@@ -228,11 +228,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Modal verbs (devo)", "Time expressions", "Durante + article"]
+          points: [ "Modal verbs (devo)", "Time expressions", "Durante + article" ]
         },
         questions: [
-          { question: "Dove va?", options: ["A Roma", "A Milano", "A Napoli"], correct: 1 },
-          { question: "Quanto dura il viaggio?", options: ["Due ore", "Tre ore", "Quattro ore"], correct: 1 }
+          { question: "Dove va?", options: [ "A Roma", "A Milano", "A Napoli" ], correct: 1 },
+          { question: "Quanto dura il viaggio?", options: [ "Due ore", "Tre ore", "Quattro ore" ], correct: 1 }
         ]
       },
 
@@ -257,11 +257,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Frequency expressions (ogni sabato)", "Relative clauses (che)", "Adjective agreement"]
+          points: [ "Frequency expressions (ogni sabato)", "Relative clauses (che)", "Adjective agreement" ]
         },
         questions: [
-          { question: "Quando va al mercato?", options: ["Ogni domenica", "Ogni sabato", "Ogni venerdì"], correct: 1 },
-          { question: "Cosa compra?", options: ["Solo frutta", "Solo vestiti", "Frutta e vestiti"], correct: 2 }
+          { question: "Quando va al mercato?", options: [ "Ogni domenica", "Ogni sabato", "Ogni venerdì" ], correct: 1 },
+          { question: "Cosa compra?", options: [ "Solo frutta", "Solo vestiti", "Frutta e vestiti" ], correct: 2 }
         ]
       },
 
@@ -286,11 +286,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Reflexive verbs (sentirsi)", "Indirect object pronouns (mi)", "Imperative (informal)"]
+          points: [ "Reflexive verbs (sentirsi)", "Indirect object pronouns (mi)", "Imperative (informal)" ]
         },
         questions: [
-          { question: "Cosa ha?", options: ["Mal di stomaco", "Mal di testa", "Mal di gola"], correct: 1 },
-          { question: "Com'è la febbre?", options: ["Alta", "Non è alta", "Molto alta"], correct: 1 }
+          { question: "Cosa ha?", options: [ "Mal di stomaco", "Mal di testa", "Mal di gola" ], correct: 1 },
+          { question: "Com'è la febbre?", options: [ "Alta", "Non è alta", "Molto alta" ], correct: 1 }
         ]
       },
 
@@ -315,11 +315,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Weather expressions", "Present continuous actions", "Reflexive verbs"]
+          points: [ "Weather expressions", "Present continuous actions", "Reflexive verbs" ]
         },
         questions: [
-          { question: "Com'è il tempo?", options: ["Brutto", "Bello", "Nuvoloso"], correct: 1 },
-          { question: "Dove si siede?", options: ["Sull'erba", "Su una panchina", "Sotto un albero"], correct: 1 }
+          { question: "Com'è il tempo?", options: [ "Brutto", "Bello", "Nuvoloso" ], correct: 1 },
+          { question: "Dove si siede?", options: [ "Sull'erba", "Su una panchina", "Sotto un albero" ], correct: 1 }
         ]
       },
 
@@ -344,11 +344,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Reflexive verbs", "Possessive adjectives", "Past references in present"]
+          points: [ "Reflexive verbs", "Possessive adjectives", "Past references in present" ]
         },
         questions: [
-          { question: "Quanti anni compie la nonna?", options: ["70", "80", "90"], correct: 1 },
-          { question: "Chi viene alla festa?", options: ["Solo i figli", "Tutta la famiglia", "Solo i nipoti"], correct: 1 }
+          { question: "Quanti anni compie la nonna?", options: [ "70", "80", "90" ], correct: 1 },
+          { question: "Chi viene alla festa?", options: [ "Solo i figli", "Tutta la famiglia", "Solo i nipoti" ], correct: 1 }
         ]
       },
 
@@ -373,11 +373,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Future with present", "Indirect speech", "Reflexive constructions"]
+          points: [ "Future with present", "Indirect speech", "Reflexive constructions" ]
         },
         questions: [
-          { question: "Dove trova lavoro?", options: ["In un bar", "In un negozio di libri", "In un ufficio"], correct: 1 },
-          { question: "Quando inizia?", options: ["Domani", "Lunedì", "La settimana prossima"], correct: 1 }
+          { question: "Dove trova lavoro?", options: [ "In un bar", "In un negozio di libri", "In un ufficio" ], correct: 1 },
+          { question: "Quando inizia?", options: [ "Domani", "Lunedì", "La settimana prossima" ], correct: 1 }
         ]
       },
 
@@ -402,11 +402,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Reflexive verbs", "Mentre + present", "Quando clauses"]
+          points: [ "Reflexive verbs", "Mentre + present", "Quando clauses" ]
         },
         questions: [
-          { question: "Quanti amici sono?", options: ["Tre", "Quattro", "Cinque"], correct: 2 },
-          { question: "Com'è il film?", options: ["Noioso", "Divertente", "Triste"], correct: 1 }
+          { question: "Quanti amici sono?", options: [ "Tre", "Quattro", "Cinque" ], correct: 2 },
+          { question: "Com'è il film?", options: [ "Noioso", "Divertente", "Triste" ], correct: 1 }
         ]
       },
 
@@ -431,11 +431,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present tense narrative", "Time markers", "Plural forms"]
+          points: [ "Present tense narrative", "Time markers", "Plural forms" ]
         },
         questions: [
-          { question: "Dove va la classe?", options: ["Al mare", "Al museo", "In montagna"], correct: 1 },
-          { question: "Come viaggiano?", options: ["In treno", "In autobus", "In macchina"], correct: 1 }
+          { question: "Dove va la classe?", options: [ "Al mare", "Al museo", "In montagna" ], correct: 1 },
+          { question: "Come viaggiano?", options: [ "In treno", "In autobus", "In macchina" ], correct: 1 }
         ]
       },
 
@@ -460,11 +460,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present perfect (sono sposati da)", "Emotional expressions", "Direct object pronouns"]
+          points: [ "Present perfect (sono sposati da)", "Emotional expressions", "Direct object pronouns" ]
         },
         questions: [
-          { question: "Da quanti anni sono sposati?", options: ["20 anni", "25 anni", "30 anni"], correct: 1 },
-          { question: "Cosa gridano tutti?", options: ["Auguri", "Sorpresa", "Bravi"], correct: 1 }
+          { question: "Da quanti anni sono sposati?", options: [ "20 anni", "25 anni", "30 anni" ], correct: 1 },
+          { question: "Cosa gridano tutti?", options: [ "Auguri", "Sorpresa", "Bravi" ], correct: 1 }
         ]
       },
 
@@ -489,11 +489,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Infinitive constructions", "Direct object pronouns", "Adjective agreement"]
+          points: [ "Infinitive constructions", "Direct object pronouns", "Adjective agreement" ]
         },
         questions: [
-          { question: "Chi è l'insegnante?", options: ["Un cuoco normale", "Uno chef famoso", "Un professore"], correct: 1 },
-          { question: "Cosa imparano a fare?", options: ["Il pane", "La pasta fresca", "La pizza"], correct: 1 }
+          { question: "Chi è l'insegnante?", options: [ "Un cuoco normale", "Uno chef famoso", "Un professore" ], correct: 1 },
+          { question: "Cosa imparano a fare?", options: [ "Il pane", "La pasta fresca", "La pizza" ], correct: 1 }
         ]
       },
 
@@ -518,11 +518,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Comparatives", "Ne partitive", "Future with present"]
+          points: [ "Comparatives", "Ne partitive", "Future with present" ]
         },
         questions: [
-          { question: "Quante camere ha il secondo appartamento?", options: ["Una", "Due", "Tre"], correct: 1 },
-          { question: "Com'è la zona?", options: ["Rumorosa", "Tranquilla", "Pericolosa"], correct: 1 }
+          { question: "Quante camere ha il secondo appartamento?", options: [ "Una", "Due", "Tre" ], correct: 1 },
+          { question: "Com'è la zona?", options: [ "Rumorosa", "Tranquilla", "Pericolosa" ], correct: 1 }
         ]
       },
 
@@ -547,11 +547,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present perfect continuous (da mesi)", "Ce la faccio expression", "Time expressions"]
+          points: [ "Present perfect continuous (da mesi)", "Ce la faccio expression", "Time expressions" ]
         },
         questions: [
-          { question: "Da quanto tempo si allena?", options: ["Da settimane", "Da mesi", "Da anni"], correct: 1 },
-          { question: "Quanto tempo impiega?", options: ["Tre ore", "Quattro ore", "Cinque ore"], correct: 1 }
+          { question: "Da quanto tempo si allena?", options: [ "Da settimane", "Da mesi", "Da anni" ], correct: 1 },
+          { question: "Quanto tempo impiega?", options: [ "Tre ore", "Quattro ore", "Cinque ore" ], correct: 1 }
         ]
       },
 
@@ -576,11 +576,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Passato prossimo", "Possessive adjectives", "Present perfect"]
+          points: [ "Passato prossimo", "Possessive adjectives", "Present perfect" ]
         },
         questions: [
-          { question: "Quando ha comprato il biglietto?", options: ["Ieri", "Una settimana fa", "Un mese fa"], correct: 2 },
-          { question: "Dov'è il suo posto?", options: ["Lontano dal palco", "Vicino al palco", "In galleria"], correct: 1 }
+          { question: "Quando ha comprato il biglietto?", options: [ "Ieri", "Una settimana fa", "Un mese fa" ], correct: 2 },
+          { question: "Dov'è il suo posto?", options: [ "Lontano dal palco", "Vicino al palco", "In galleria" ], correct: 1 }
         ]
       },
 
@@ -605,11 +605,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Modal verbs", "Comparatives", "Present and future actions"]
+          points: [ "Modal verbs", "Comparatives", "Present and future actions" ]
         },
         questions: [
-          { question: "Perché deve traslocare?", options: ["Per amore", "Per il lavoro", "Per studio"], correct: 1 },
-          { question: "Com'è la nuova casa?", options: ["Più piccola", "Uguale", "Più grande"], correct: 2 }
+          { question: "Perché deve traslocare?", options: [ "Per amore", "Per il lavoro", "Per studio" ], correct: 1 },
+          { question: "Com'è la nuova casa?", options: [ "Più piccola", "Uguale", "Più grande" ], correct: 2 }
         ]
       },
 
@@ -633,11 +633,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Sequence of actions", "Comparative constructions", "Reflexive verbs"]
+          points: [ "Sequence of actions", "Comparative constructions", "Reflexive verbs" ]
         },
         questions: [
-          { question: "Come si sente all'inizio?", options: ["Tranquilla", "Nervosa", "Annoiata"], correct: 1 },
-          { question: "Com'è l'istruttore?", options: ["Impaziente", "Severo", "Paziente"], correct: 2 }
+          { question: "Come si sente all'inizio?", options: [ "Tranquilla", "Nervosa", "Annoiata" ], correct: 1 },
+          { question: "Com'è l'istruttore?", options: [ "Impaziente", "Severo", "Paziente" ], correct: 2 }
         ]
       },
 
@@ -661,11 +661,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Future actions", "Time expressions", "Formal situations"]
+          points: [ "Future actions", "Time expressions", "Formal situations" ]
         },
         questions: [
-          { question: "Quando ha il colloquio?", options: ["Oggi", "Domani", "Dopodomani"], correct: 1 },
-          { question: "Chi fa il colloquio?", options: ["La segretaria", "Il direttore", "Un collega"], correct: 1 }
+          { question: "Quando ha il colloquio?", options: [ "Oggi", "Domani", "Dopodomani" ], correct: 1 },
+          { question: "Chi fa il colloquio?", options: [ "La segretaria", "Il direttore", "Un collega" ], correct: 1 }
         ]
       },
 
@@ -689,11 +689,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Si passivante", "Present habitual", "Time expressions"]
+          points: [ "Si passivante", "Present habitual", "Time expressions" ]
         },
         questions: [
-          { question: "Quando si celebra la festa?", options: ["In primavera", "In estate", "In autunno"], correct: 1 },
-          { question: "A che ora finisce?", options: ["Alle undici", "A mezzanotte", "All'una"], correct: 1 }
+          { question: "Quando si celebra la festa?", options: [ "In primavera", "In estate", "In autunno" ], correct: 1 },
+          { question: "A che ora finisce?", options: [ "Alle undici", "A mezzanotte", "All'una" ], correct: 1 }
         ]
       },
 
@@ -717,11 +717,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Frequency expressions", "Progressive improvement", "Future intentions"]
+          points: [ "Frequency expressions", "Progressive improvement", "Future intentions" ]
         },
         questions: [
-          { question: "Quale lingua studia?", options: ["Francese", "Spagnolo", "Tedesco"], correct: 1 },
-          { question: "Quante volte a settimana?", options: ["Due", "Tre", "Quattro"], correct: 1 }
+          { question: "Quale lingua studia?", options: [ "Francese", "Spagnolo", "Tedesco" ], correct: 1 },
+          { question: "Quante volte a settimana?", options: [ "Due", "Tre", "Quattro" ], correct: 1 }
         ]
       },
 
@@ -746,11 +746,11 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["C'è/ci sono", "Ordinal numbers", "Present tense descriptions"]
+          points: [ "C'è/ci sono", "Ordinal numbers", "Present tense descriptions" ]
         },
         questions: [
-          { question: "Quanti piani ha il museo?", options: ["Due", "Tre", "Quattro"], correct: 1 },
-          { question: "Cosa c'è al secondo piano?", options: ["Arte moderna", "Arte antica", "Mostra speciale"], correct: 1 }
+          { question: "Quanti piani ha il museo?", options: [ "Due", "Tre", "Quattro" ], correct: 1 },
+          { question: "Cosa c'è al secondo piano?", options: [ "Arte moderna", "Arte antica", "Mostra speciale" ], correct: 1 }
         ]
       },
 
@@ -777,12 +777,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Possessive adjectives", "Present tense for future plans", "Reflexive pronouns"]
+          points: [ "Possessive adjectives", "Present tense for future plans", "Reflexive pronouns" ]
         },
         questions: [
-          { question: "Cosa festeggiano?", options: ["Un compleanno", "Il loro anniversario", "Il Natale"], correct: 1 },
-          { question: "Dove vanno dopo cena?", options: ["Al cinema", "A casa", "Sulla spiaggia"], correct: 2 },
-          { question: "Com'è la luna?", options: ["Nuova", "Piena", "Crescente"], correct: 1 }
+          { question: "Cosa festeggiano?", options: [ "Un compleanno", "Il loro anniversario", "Il Natale" ], correct: 1 },
+          { question: "Dove vanno dopo cena?", options: [ "Al cinema", "A casa", "Sulla spiaggia" ], correct: 2 },
+          { question: "Com'è la luna?", options: [ "Nuova", "Piena", "Crescente" ], correct: 1 }
         ]
       },
 
@@ -809,12 +809,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present tense duties", "Reflexive verbs", "Direct object pronouns"]
+          points: [ "Present tense duties", "Reflexive verbs", "Direct object pronouns" ]
         },
         questions: [
-          { question: "Quanti studenti sono nel gruppo?", options: ["Tre", "Quattro", "Cinque"], correct: 1 },
-          { question: "Cosa studia il narratore?", options: ["L'industria", "Il settore turistico", "L'agricoltura"], correct: 1 },
-          { question: "Com'è il voto finale?", options: ["Basso", "Medio", "Alto"], correct: 2 }
+          { question: "Quanti studenti sono nel gruppo?", options: [ "Tre", "Quattro", "Cinque" ], correct: 1 },
+          { question: "Cosa studia il narratore?", options: [ "L'industria", "Il settore turistico", "L'agricoltura" ], correct: 1 },
+          { question: "Com'è il voto finale?", options: [ "Basso", "Medio", "Alto" ], correct: 2 }
         ]
       },
 
@@ -841,12 +841,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Reflexive verbs", "Past participles as adjectives", "Direct object pronouns"]
+          points: [ "Reflexive verbs", "Past participles as adjectives", "Direct object pronouns" ]
         },
         questions: [
-          { question: "Dove va per adottare un cane?", options: ["Al negozio", "Al canile", "Dal veterinario"], correct: 1 },
-          { question: "Come chiama il cane?", options: ["Max", "Buddy", "Rex"], correct: 1 },
-          { question: "Com'è il cane?", options: ["Grande e nero", "Piccolo e marrone", "Medio e bianco"], correct: 1 }
+          { question: "Dove va per adottare un cane?", options: [ "Al negozio", "Al canile", "Dal veterinario" ], correct: 1 },
+          { question: "Come chiama il cane?", options: [ "Max", "Buddy", "Rex" ], correct: 1 },
+          { question: "Com'è il cane?", options: [ "Grande e nero", "Piccolo e marrone", "Medio e bianco" ], correct: 1 }
         ]
       },
 
@@ -873,12 +873,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Ordinal numbers", "Present tense narration", "Negative statements"]
+          points: [ "Ordinal numbers", "Present tense narration", "Negative statements" ]
         },
         questions: [
-          { question: "Quanti concorrenti ci sono?", options: ["Otto", "Dieci", "Dodici"], correct: 1 },
-          { question: "Quale posto ottiene?", options: ["Primo", "Secondo", "Terzo"], correct: 2 },
-          { question: "Cosa prepara come dolce?", options: ["Panna cotta", "Tiramisu", "Gelato"], correct: 1 }
+          { question: "Quanti concorrenti ci sono?", options: [ "Otto", "Dieci", "Dodici" ], correct: 1 },
+          { question: "Quale posto ottiene?", options: [ "Primo", "Secondo", "Terzo" ], correct: 2 },
+          { question: "Cosa prepara come dolce?", options: [ "Panna cotta", "Tiramisu", "Gelato" ], correct: 1 }
         ]
       },
 
@@ -905,12 +905,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Reflexive verbs", "Present tense for ongoing events", "Possessive adjectives"]
+          points: [ "Reflexive verbs", "Present tense for ongoing events", "Possessive adjectives" ]
         },
         questions: [
-          { question: "Dove si celebra la cerimonia?", options: ["In comune", "In una chiesa antica", "All'aperto"], correct: 1 },
-          { question: "Dove si tiene il ricevimento?", options: ["In un ristorante", "In un castello", "In hotel"], correct: 1 },
-          { question: "Cosa lanciano gli sposi?", options: ["Il riso", "I confetti", "Il bouquet"], correct: 2 }
+          { question: "Dove si celebra la cerimonia?", options: [ "In comune", "In una chiesa antica", "All'aperto" ], correct: 1 },
+          { question: "Dove si tiene il ricevimento?", options: [ "In un ristorante", "In un castello", "In hotel" ], correct: 1 },
+          { question: "Cosa lanciano gli sposi?", options: [ "Il riso", "I confetti", "Il bouquet" ], correct: 2 }
         ]
       },
 
@@ -938,12 +938,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present tense journey", "Adjective descriptions", "Time markers"]
+          points: [ "Present tense journey", "Adjective descriptions", "Time markers" ]
         },
         questions: [
-          { question: "Quando parte?", options: ["Di sera", "Di pomeriggio", "Di mattina presto"], correct: 2 },
-          { question: "Com'è il sentiero?", options: ["Facile", "Ripido", "Piano"], correct: 1 },
-          { question: "Com'è la vista dalla vetta?", options: ["Normale", "Bella", "Mozzafiato"], correct: 2 }
+          { question: "Quando parte?", options: [ "Di sera", "Di pomeriggio", "Di mattina presto" ], correct: 2 },
+          { question: "Com'è il sentiero?", options: [ "Facile", "Ripido", "Piano" ], correct: 1 },
+          { question: "Com'è la vista dalla vetta?", options: [ "Normale", "Bella", "Mozzafiato" ], correct: 2 }
         ]
       },
 
@@ -970,12 +970,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present tense test narration", "Fare + infinitive", "Superlatives"]
+          points: [ "Present tense test narration", "Fare + infinitive", "Superlatives" ]
         },
         questions: [
-          { question: "Come si sente prima dell'esame?", options: ["Tranquilla", "Nervosa", "Sicura"], correct: 1 },
-          { question: "Qual è il risultato?", options: ["Bocciata", "Rimandata", "Promossa"], correct: 2 },
-          { question: "Cosa fa come manovra?", options: ["Solo avanti", "Parcheggio in parallelo", "Solo curva"], correct: 1 }
+          { question: "Come si sente prima dell'esame?", options: [ "Tranquilla", "Nervosa", "Sicura" ], correct: 1 },
+          { question: "Qual è il risultato?", options: [ "Bocciata", "Rimandata", "Promossa" ], correct: 2 },
+          { question: "Cosa fa come manovra?", options: [ "Solo avanti", "Parcheggio in parallelo", "Solo curva" ], correct: 1 }
         ]
       },
 
@@ -1002,12 +1002,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Imperative mood", "Future tense", "Direct object pronouns"]
+          points: [ "Imperative mood", "Future tense", "Direct object pronouns" ]
         },
         questions: [
-          { question: "Cosa insegna la nonna?", options: ["A fare la pasta", "A fare il ragù", "A fare il pane"], correct: 1 },
-          { question: "Per quanto tempo cuoce?", options: ["Minuti", "Un'ora", "Ore"], correct: 2 },
-          { question: "Com'è il risultato finale?", options: ["Buono", "Perfetto", "Mediocre"], correct: 1 }
+          { question: "Cosa insegna la nonna?", options: [ "A fare la pasta", "A fare il ragù", "A fare il pane" ], correct: 1 },
+          { question: "Per quanto tempo cuoce?", options: [ "Minuti", "Un'ora", "Ore" ], correct: 2 },
+          { question: "Com'è il risultato finale?", options: [ "Buono", "Perfetto", "Mediocre" ], correct: 1 }
         ]
       },
 
@@ -1034,12 +1034,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present and future actions", "Descriptive adjectives", "Finally constructions"]
+          points: [ "Present and future actions", "Descriptive adjectives", "Finally constructions" ]
         },
         questions: [
-          { question: "Com'è l'appartamento?", options: ["Grande e vecchio", "Piccolo ma carino", "Medio e brutto"], correct: 1 },
-          { question: "Cosa vede dal balcone?", options: ["Il mare", "Il parco", "La strada"], correct: 1 },
-          { question: "Cosa fa la sera?", options: ["Dorme", "Studia", "Invita gli amici"], correct: 2 }
+          { question: "Com'è l'appartamento?", options: [ "Grande e vecchio", "Piccolo ma carino", "Medio e brutto" ], correct: 1 },
+          { question: "Cosa vede dal balcone?", options: [ "Il mare", "Il parco", "La strada" ], correct: 1 },
+          { question: "Cosa fa la sera?", options: [ "Dorme", "Studia", "Invita gli amici" ], correct: 2 }
         ]
       },
 
@@ -1066,12 +1066,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Duration expressions", "Present tense variety", "Genre vocabulary"]
+          points: [ "Duration expressions", "Present tense variety", "Genre vocabulary" ]
         },
         questions: [
-          { question: "Quanto dura la maratona?", options: ["12 ore", "24 ore", "48 ore"], correct: 1 },
-          { question: "Quanti libri legge?", options: ["Sei", "Sette", "Otto"], correct: 2 },
-          { question: "Cosa legge all'alba?", options: ["Un romanzo", "Poesie", "Un thriller"], correct: 1 }
+          { question: "Quanto dura la maratona?", options: [ "12 ore", "24 ore", "48 ore" ], correct: 1 },
+          { question: "Quanti libri legge?", options: [ "Sei", "Sette", "Otto" ], correct: 2 },
+          { question: "Cosa legge all'alba?", options: [ "Un romanzo", "Poesie", "Un thriller" ], correct: 1 }
         ]
       },
 
@@ -1098,12 +1098,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Project descriptions", "Technical vocabulary", "Present tense progression"]
+          points: [ "Project descriptions", "Technical vocabulary", "Present tense progression" ]
         },
         questions: [
-          { question: "Qual è il primo progetto?", options: ["Paesaggi", "Ritratti", "Street photography"], correct: 1 },
-          { question: "Quando fotografa il paesaggio?", options: ["A mezzogiorno", "Al tramonto", "All'alba"], correct: 2 },
-          { question: "Cosa fanno alla fine del corso?", options: ["Un esame", "Una mostra", "Una gita"], correct: 1 }
+          { question: "Qual è il primo progetto?", options: [ "Paesaggi", "Ritratti", "Street photography" ], correct: 1 },
+          { question: "Quando fotografa il paesaggio?", options: [ "A mezzogiorno", "Al tramonto", "All'alba" ], correct: 2 },
+          { question: "Cosa fanno alla fine del corso?", options: [ "Un esame", "Una mostra", "Una gita" ], correct: 1 }
         ]
       },
 
@@ -1130,12 +1130,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present tense activities", "Adjective use", "Future intentions"]
+          points: [ "Present tense activities", "Adjective use", "Future intentions" ]
         },
         questions: [
-          { question: "Dove fa volontariato?", options: ["In ospedale", "Nel doposcuola", "In biblioteca"], correct: 1 },
-          { question: "Come sono i bambini?", options: ["Timidi", "Vivaci", "Silenziosi"], correct: 1 },
-          { question: "Come si sente alla fine?", options: ["Inutile", "Arrabbiata", "Utile ma stanca"], correct: 2 }
+          { question: "Dove fa volontariato?", options: [ "In ospedale", "Nel doposcuola", "In biblioteca" ], correct: 1 },
+          { question: "Come sono i bambini?", options: [ "Timidi", "Vivaci", "Silenziosi" ], correct: 1 },
+          { question: "Come si sente alla fine?", options: [ "Inutile", "Arrabbiata", "Utile ma stanca" ], correct: 2 }
         ]
       },
 
@@ -1162,12 +1162,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present perfect", "Chi constructions", "Past references"]
+          points: [ "Present perfect", "Chi constructions", "Past references" ]
         },
         questions: [
-          { question: "Quanti anni sono passati?", options: ["Cinque", "Dieci", "Quindici"], correct: 1 },
-          { question: "Come arrivano alla festa?", options: ["Annoiati", "Emozionati", "Arrabbiati"], correct: 1 },
-          { question: "Cosa si scambiano?", options: ["Regali", "Foto", "Numeri di telefono"], correct: 2 }
+          { question: "Quanti anni sono passati?", options: [ "Cinque", "Dieci", "Quindici" ], correct: 1 },
+          { question: "Come arrivano alla festa?", options: [ "Annoiati", "Emozionati", "Arrabbiati" ], correct: 1 },
+          { question: "Cosa si scambiano?", options: [ "Regali", "Foto", "Numeri di telefono" ], correct: 2 }
         ]
       },
 
@@ -1194,12 +1194,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Sequence of actions", "Present perfect", "Duration expressions"]
+          points: [ "Sequence of actions", "Present perfect", "Duration expressions" ]
         },
         questions: [
-          { question: "Com'è la casa all'inizio?", options: ["Nuova", "Antica", "Moderna"], correct: 1 },
-          { question: "Quanto dura il lavoro?", options: ["Tre mesi", "Sei mesi", "Un anno"], correct: 1 },
-          { question: "Com'è la casa alla fine?", options: ["Normale", "Splendida", "Piccola"], correct: 1 }
+          { question: "Com'è la casa all'inizio?", options: [ "Nuova", "Antica", "Moderna" ], correct: 1 },
+          { question: "Quanto dura il lavoro?", options: [ "Tre mesi", "Sei mesi", "Un anno" ], correct: 1 },
+          { question: "Com'è la casa alla fine?", options: [ "Normale", "Splendida", "Piccola" ], correct: 1 }
         ]
       },
 
@@ -1226,12 +1226,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Future tense", "Film genres", "Daily routines"]
+          points: [ "Future tense", "Film genres", "Daily routines" ]
         },
         questions: [
-          { question: "Quanto dura il festival?", options: ["Tre giorni", "Una settimana", "Due settimane"], correct: 1 },
-          { question: "Quanti film vede al giorno?", options: ["Due", "Tre", "Quattro"], correct: 1 },
-          { question: "Chi vince?", options: ["Un film italiano", "Un film francese", "Un film brasiliano"], correct: 2 }
+          { question: "Quanto dura il festival?", options: [ "Tre giorni", "Una settimana", "Due settimane" ], correct: 1 },
+          { question: "Quanti film vede al giorno?", options: [ "Due", "Tre", "Quattro" ], correct: 1 },
+          { question: "Chi vince?", options: [ "Un film italiano", "Un film francese", "Un film brasiliano" ], correct: 2 }
         ]
       },
 
@@ -1258,12 +1258,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["First time expressions", "Progressive confidence", "Future certainty"]
+          points: [ "First time expressions", "Progressive confidence", "Future certainty" ]
         },
         questions: [
-          { question: "È la prima volta?", options: ["No", "Sì", "È la seconda"], correct: 1 },
-          { question: "Cosa vedono durante il viaggio?", options: ["Solo acqua", "Aironi e pesci", "Niente"], correct: 1 },
-          { question: "Come si sentono alla fine?", options: ["Stanchi ma felici", "Solo stanchi", "Delusi"], correct: 0 }
+          { question: "È la prima volta?", options: [ "No", "Sì", "È la seconda" ], correct: 1 },
+          { question: "Cosa vedono durante il viaggio?", options: [ "Solo acqua", "Aironi e pesci", "Niente" ], correct: 1 },
+          { question: "Come si sentono alla fine?", options: [ "Stanchi ma felici", "Solo stanchi", "Delusi" ], correct: 0 }
         ]
       },
 
@@ -1290,12 +1290,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Business vocabulary", "Time progression", "Success expressions"]
+          points: [ "Business vocabulary", "Time progression", "Success expressions" ]
         },
         questions: [
-          { question: "Cosa sviluppa?", options: ["Un sito web", "Un'app mobile", "Un gioco"], correct: 1 },
-          { question: "Per cosa serve l'app?", options: ["Per giocare", "Per imparare lingue", "Per fare foto"], correct: 1 },
-          { question: "Come sono le recensioni?", options: ["Negative", "Miste", "Positive"], correct: 2 }
+          { question: "Cosa sviluppa?", options: [ "Un sito web", "Un'app mobile", "Un gioco" ], correct: 1 },
+          { question: "Per cosa serve l'app?", options: [ "Per giocare", "Per imparare lingue", "Per fare foto" ], correct: 1 },
+          { question: "Come sono le recensioni?", options: [ "Negative", "Miste", "Positive" ], correct: 2 }
         ]
       },
 
@@ -1322,12 +1322,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Decision making", "International context", "Educational vocabulary"]
+          points: [ "Decision making", "International context", "Educational vocabulary" ]
         },
         questions: [
-          { question: "Dove va per il master?", options: ["In Francia", "In Germania", "In Spagna"], correct: 1 },
-          { question: "In che lingua sono le lezioni?", options: ["In tedesco", "In italiano", "In inglese"], correct: 2 },
-          { question: "Dove vive?", options: ["Da sola", "In condivisione", "In hotel"], correct: 1 }
+          { question: "Dove va per il master?", options: [ "In Francia", "In Germania", "In Spagna" ], correct: 1 },
+          { question: "In che lingua sono le lezioni?", options: [ "In tedesco", "In italiano", "In inglese" ], correct: 2 },
+          { question: "Dove vive?", options: [ "Da sola", "In condivisione", "In hotel" ], correct: 1 }
         ]
       },
 
@@ -1354,12 +1354,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Progressive success", "Present perfect", "Professional development"]
+          points: [ "Progressive success", "Present perfect", "Professional development" ]
         },
         questions: [
-          { question: "Di cosa parla il blog?", options: ["Di cucina", "Di viaggi", "Di moda"], correct: 1 },
-          { question: "Come reagisce ai pochi lettori iniziali?", options: ["Si scoraggia", "Smette", "Non si scoraggia"], correct: 2 },
-          { question: "Cosa è diventato il blog?", options: ["Un hobby", "Il suo mestiere", "Un problema"], correct: 1 }
+          { question: "Di cosa parla il blog?", options: [ "Di cucina", "Di viaggi", "Di moda" ], correct: 1 },
+          { question: "Come reagisce ai pochi lettori iniziali?", options: [ "Si scoraggia", "Smette", "Non si scoraggia" ], correct: 2 },
+          { question: "Cosa è diventato il blog?", options: [ "Un hobby", "Il suo mestiere", "Un problema" ], correct: 1 }
         ]
       },
 
@@ -1387,12 +1387,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Craft vocabulary", "Progressive improvement", "Material processes"]
+          points: [ "Craft vocabulary", "Progressive improvement", "Material processes" ]
         },
         questions: [
-          { question: "Chi è l'insegnante?", options: ["Un principiante", "Un artista", "Uno studente"], correct: 1 },
-          { question: "Come sono le prime forme?", options: ["Perfette", "Storte", "Belle"], correct: 1 },
-          { question: "Cosa fa con i suoi lavori?", options: ["Li vende", "Li tiene", "Li regala agli amici"], correct: 2 }
+          { question: "Chi è l'insegnante?", options: [ "Un principiante", "Un artista", "Uno studente" ], correct: 1 },
+          { question: "Come sono le prime forme?", options: [ "Perfette", "Storte", "Belle" ], correct: 1 },
+          { question: "Cosa fa con i suoi lavori?", options: [ "Li vende", "Li tiene", "Li regala agli amici" ], correct: 2 }
         ]
       },
 
@@ -1419,12 +1419,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Sports vocabulary", "Results and scores", "Team activities"]
+          points: [ "Sports vocabulary", "Results and scores", "Team activities" ]
         },
         questions: [
-          { question: "Quanti sono nella squadra?", options: ["Sei", "Otto", "Dieci"], correct: 1 },
-          { question: "Qual è il risultato della prima partita?", options: ["Vincono", "Pareggiano", "Perdono 3-1"], correct: 2 },
-          { question: "Che posizione ottengono nel torneo?", options: ["Primi", "Quarti", "Ultimi"], correct: 1 }
+          { question: "Quanti sono nella squadra?", options: [ "Sei", "Otto", "Dieci" ], correct: 1 },
+          { question: "Qual è il risultato della prima partita?", options: [ "Vincono", "Pareggiano", "Perdono 3-1" ], correct: 2 },
+          { question: "Che posizione ottengono nel torneo?", options: [ "Primi", "Quarti", "Ultimi" ], correct: 1 }
         ]
       },
 
@@ -1451,12 +1451,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Community vocabulary", "Purpose expressions", "Success outcomes"]
+          points: [ "Community vocabulary", "Purpose expressions", "Success outcomes" ]
         },
         questions: [
-          { question: "Per chi è l'evento?", options: ["Per anziani", "Per bambini poveri", "Per animali"], correct: 1 },
-          { question: "Cosa vendono all'evento?", options: ["Cibo", "Vestiti", "Biglietti della lotteria"], correct: 2 },
-          { question: "Com'è il risultato?", options: ["Deludente", "Normale", "Molto buono"], correct: 2 }
+          { question: "Per chi è l'evento?", options: [ "Per anziani", "Per bambini poveri", "Per animali" ], correct: 1 },
+          { question: "Cosa vendono all'evento?", options: [ "Cibo", "Vestiti", "Biglietti della lotteria" ], correct: 2 },
+          { question: "Com'è il risultato?", options: [ "Deludente", "Normale", "Molto buono" ], correct: 2 }
         ]
       },
 
@@ -1483,16 +1483,16 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Specialized vocabulary", "Learning processes", "Certification achievement"]
+          points: [ "Specialized vocabulary", "Learning processes", "Certification achievement" ]
         },
         questions: [
-          { question: "Quanto dura il corso?", options: ["Tre mesi", "Sei mesi", "Un anno"], correct: 1 },
-          { question: "Cosa deve fare all'esame?", options: ["Cucinare", "Riconoscere dieci vini", "Scrivere"], correct: 1 },
-          { question: "Qual è il risultato?", options: ["Bocciato", "Rimandato", "Promosso"], correct: 2 }
+          { question: "Quanto dura il corso?", options: [ "Tre mesi", "Sei mesi", "Un anno" ], correct: 1 },
+          { question: "Cosa deve fare all'esame?", options: [ "Cucinare", "Riconoscere dieci vini", "Scrivere" ], correct: 1 },
+          { question: "Qual è il risultato?", options: [ "Bocciato", "Rimandato", "Promosso" ], correct: 2 }
         ]
       },
 
-      # Story 50 
+      # Story 50
       {
         position: 50,
         title: "Il mercatino dell'antiquariato",
@@ -1515,12 +1515,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present habitual", "Object descriptions", "Past imagination"]
+          points: [ "Present habitual", "Object descriptions", "Past imagination" ]
         },
         questions: [
-          { question: "Quando va al mercatino?", options: ["Ogni sabato", "Ogni domenica", "Ogni lunedì"], correct: 1 },
-          { question: "Cosa trova oggi?", options: ["Solo libri", "Una macchina fotografica e un libro", "Solo quadri"], correct: 1 },
-          { question: "Com'è il prezzo del libro?", options: ["Caro", "Onesto", "Gratis"], correct: 1 }
+          { question: "Quando va al mercatino?", options: [ "Ogni sabato", "Ogni domenica", "Ogni lunedì" ], correct: 1 },
+          { question: "Cosa trova oggi?", options: [ "Solo libri", "Una macchina fotografica e un libro", "Solo quadri" ], correct: 1 },
+          { question: "Com'è il prezzo del libro?", options: [ "Caro", "Onesto", "Gratis" ], correct: 1 }
         ]
       },
 
@@ -1547,12 +1547,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Future tense", "Time duration", "Ordinal numbers"]
+          points: [ "Future tense", "Time duration", "Ordinal numbers" ]
         },
         questions: [
-          { question: "Quanto dura la maratona?", options: ["Sei ore", "Dodici ore", "Ventiquattro ore"], correct: 1 },
-          { question: "Quante coppie partecipano?", options: ["Trenta", "Quaranta", "Cinquanta"], correct: 2 },
-          { question: "Che posizione ottengono?", options: ["Primi", "Tra i primi dieci", "Ultimi"], correct: 1 }
+          { question: "Quanto dura la maratona?", options: [ "Sei ore", "Dodici ore", "Ventiquattro ore" ], correct: 1 },
+          { question: "Quante coppie partecipano?", options: [ "Trenta", "Quaranta", "Cinquanta" ], correct: 2 },
+          { question: "Che posizione ottengono?", options: [ "Primi", "Tra i primi dieci", "Ultimi" ], correct: 1 }
         ]
       },
 
@@ -1579,12 +1579,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Present tense collective actions", "Time expressions", "Result descriptions"]
+          points: [ "Present tense collective actions", "Time expressions", "Result descriptions" ]
         },
         questions: [
-          { question: "Cosa coltiva il narratore?", options: ["Solo fiori", "Pomodori e basilico", "Solo zucchine"], correct: 1 },
-          { question: "Dopo quanto tempo raccolgono?", options: ["Un mese", "Due mesi", "Tre mesi"], correct: 2 },
-          { question: "Come sono i pomodori?", options: ["Acerbi", "Dolci", "Amari"], correct: 1 }
+          { question: "Cosa coltiva il narratore?", options: [ "Solo fiori", "Pomodori e basilico", "Solo zucchine" ], correct: 1 },
+          { question: "Dopo quanto tempo raccolgono?", options: [ "Un mese", "Due mesi", "Tre mesi" ], correct: 2 },
+          { question: "Come sono i pomodori?", options: [ "Acerbi", "Dolci", "Amari" ], correct: 1 }
         ]
       },
 
@@ -1611,12 +1611,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Creative process vocabulary", "Reactions and opinions", "Future tense"]
+          points: [ "Creative process vocabulary", "Reactions and opinions", "Future tense" ]
         },
         questions: [
-          { question: "Cosa vuole creare?", options: ["Un dolce", "Un piatto nuovo", "Una bevanda"], correct: 1 },
-          { question: "Come reagiscono gli amici?", options: ["Tutti adorano", "Reazioni miste", "Tutti odiano"], correct: 1 },
-          { question: "Come chiama il piatto?", options: ["Fusion tropicale", "Quinoa speciale", "Esperimento uno"], correct: 0 }
+          { question: "Cosa vuole creare?", options: [ "Un dolce", "Un piatto nuovo", "Una bevanda" ], correct: 1 },
+          { question: "Come reagiscono gli amici?", options: [ "Tutti adorano", "Reazioni miste", "Tutti odiano" ], correct: 1 },
+          { question: "Come chiama il piatto?", options: [ "Fusion tropicale", "Quinoa speciale", "Esperimento uno" ], correct: 0 }
         ]
       },
 
@@ -1643,12 +1643,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Film-making vocabulary", "Present tense narration", "Cultural preservation"]
+          points: [ "Film-making vocabulary", "Present tense narration", "Cultural preservation" ]
         },
         questions: [
-          { question: "Su cosa è il documentario?", options: ["La città", "Il suo paese", "La natura"], correct: 1 },
-          { question: "Chi intervista?", options: ["Giovani", "Persone anziane", "Bambini"], correct: 1 },
-          { question: "Come reagisce il pubblico?", options: ["Indifferente", "Applaudono commossi", "Se ne vanno"], correct: 1 }
+          { question: "Su cosa è il documentario?", options: [ "La città", "Il suo paese", "La natura" ], correct: 1 },
+          { question: "Chi intervista?", options: [ "Giovani", "Persone anziane", "Bambini" ], correct: 1 },
+          { question: "Come reagisce il pubblico?", options: [ "Indifferente", "Applaudono commossi", "Se ne vanno" ], correct: 1 }
         ]
       },
 
@@ -1675,12 +1675,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Reflexive verbs", "Progressive improvement", "Mental state vocabulary"]
+          points: [ "Reflexive verbs", "Progressive improvement", "Mental state vocabulary" ]
         },
         questions: [
-          { question: "Perché inizia il corso?", options: ["Per curiosità", "È sempre stressata", "Per divertimento"], correct: 1 },
-          { question: "Quanto durano le lezioni?", options: ["Mezz'ora", "Un'ora", "Due ore"], correct: 1 },
-          { question: "Come si sente dopo otto settimane?", options: ["Uguale", "Più stressata", "Più calma"], correct: 2 }
+          { question: "Perché inizia il corso?", options: [ "Per curiosità", "È sempre stressata", "Per divertimento" ], correct: 1 },
+          { question: "Quanto durano le lezioni?", options: [ "Mezz'ora", "Un'ora", "Due ore" ], correct: 1 },
+          { question: "Come si sente dopo otto settimane?", options: [ "Uguale", "Più stressata", "Più calma" ], correct: 2 }
         ]
       },
 
@@ -1707,12 +1707,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Music vocabulary", "Present tense activities", "Career development"]
+          points: [ "Music vocabulary", "Present tense activities", "Career development" ]
         },
         questions: [
-          { question: "Che genere suonano?", options: ["Pop", "Rock alternativo", "Jazz"], correct: 1 },
-          { question: "Dove provano inizialmente?", options: ["In studio", "Nel garage", "Al pub"], correct: 1 },
-          { question: "Com'è la prima esibizione?", options: ["Un disastro", "Emozionante", "Noiosa"], correct: 1 }
+          { question: "Che genere suonano?", options: [ "Pop", "Rock alternativo", "Jazz" ], correct: 1 },
+          { question: "Dove provano inizialmente?", options: [ "In studio", "Nel garage", "Al pub" ], correct: 1 },
+          { question: "Com'è la prima esibizione?", options: [ "Un disastro", "Emozionante", "Noiosa" ], correct: 1 }
         ]
       },
 
@@ -1739,12 +1739,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Environmental vocabulary", "Planning and design", "Natural processes"]
+          points: [ "Environmental vocabulary", "Planning and design", "Natural processes" ]
         },
         questions: [
-          { question: "Cos'è la permacultura?", options: ["Un hobby", "Un sistema sostenibile", "Un gioco"], correct: 1 },
-          { question: "Usa pesticidi chimici?", options: ["Sì", "No", "A volte"], correct: 1 },
-          { question: "Com'è il terreno dopo un anno?", options: ["Povero", "Uguale", "Fertile"], correct: 2 }
+          { question: "Cos'è la permacultura?", options: [ "Un hobby", "Un sistema sostenibile", "Un gioco" ], correct: 1 },
+          { question: "Usa pesticidi chimici?", options: [ "Sì", "No", "A volte" ], correct: 1 },
+          { question: "Com'è il terreno dopo un anno?", options: [ "Povero", "Uguale", "Fertile" ], correct: 2 }
         ]
       },
 
@@ -1771,12 +1771,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Cultural event vocabulary", "Inspiration and creativity", "Future intentions"]
+          points: [ "Cultural event vocabulary", "Inspiration and creativity", "Future intentions" ]
         },
         questions: [
-          { question: "Quanto dura il festival?", options: ["Due giorni", "Quattro giorni", "Una settimana"], correct: 1 },
-          { question: "Cosa fanno gli autori?", options: ["Solo firmano", "Parlano dei loro libri", "Solo vendono"], correct: 1 },
-          { question: "Cosa ispira a fare il festival?", options: ["Leggere", "Scrivere", "Viaggiare"], correct: 1 }
+          { question: "Quanto dura il festival?", options: [ "Due giorni", "Quattro giorni", "Una settimana" ], correct: 1 },
+          { question: "Cosa fanno gli autori?", options: [ "Solo firmano", "Parlano dei loro libri", "Solo vendono" ], correct: 1 },
+          { question: "Cosa ispira a fare il festival?", options: [ "Leggere", "Scrivere", "Viaggiare" ], correct: 1 }
         ]
       },
 
@@ -1803,12 +1803,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Theater vocabulary", "Emotional expressions", "Group dynamics"]
+          points: [ "Theater vocabulary", "Emotional expressions", "Group dynamics" ]
         },
         questions: [
-          { question: "Chi è l'insegnante?", options: ["Un dilettante", "Un attore professionista", "Un regista"], correct: 1 },
-          { question: "Che ruolo interpreta?", options: ["Un padre", "Una figlia", "Una madre"], correct: 2 },
-          { question: "Quando è il debutto?", options: ["Tra una settimana", "Tra un mese", "Tra due mesi"], correct: 1 }
+          { question: "Chi è l'insegnante?", options: [ "Un dilettante", "Un attore professionista", "Un regista" ], correct: 1 },
+          { question: "Che ruolo interpreta?", options: [ "Un padre", "Una figlia", "Una madre" ], correct: 2 },
+          { question: "Quando è il debutto?", options: [ "Tra una settimana", "Tra un mese", "Tra due mesi" ], correct: 1 }
         ]
       },
 
@@ -1835,12 +1835,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Travel preparation", "Journey descriptions", "Future plans"]
+          points: [ "Travel preparation", "Journey descriptions", "Future plans" ]
         },
         questions: [
-          { question: "Quante regioni attraverserà?", options: ["Due", "Tre", "Quattro"], correct: 1 },
-          { question: "Quanti chilometri è la prima tappa?", options: ["Trenta", "Quaranta", "Cinquanta"], correct: 2 },
-          { question: "Dove dorme?", options: ["In tenda", "In hotel", "In un bed and breakfast"], correct: 2 }
+          { question: "Quante regioni attraverserà?", options: [ "Due", "Tre", "Quattro" ], correct: 1 },
+          { question: "Quanti chilometri è la prima tappa?", options: [ "Trenta", "Quaranta", "Cinquanta" ], correct: 2 },
+          { question: "Dove dorme?", options: [ "In tenda", "In hotel", "In un bed and breakfast" ], correct: 2 }
         ]
       },
 
@@ -1867,12 +1867,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Space organization", "Plant care vocabulary", "Transformation descriptions"]
+          points: [ "Space organization", "Plant care vocabulary", "Transformation descriptions" ]
         },
         questions: [
-          { question: "Com'è il balcone?", options: ["Grande", "Piccolo", "Medio"], correct: 1 },
-          { question: "Cosa coltiva?", options: ["Solo fiori", "Solo verdure", "Erbe, pomodorini e fiori"], correct: 2 },
-          { question: "Con cosa cucina ora?", options: ["Erbe comprate", "Le sue erbe", "Niente"], correct: 1 }
+          { question: "Com'è il balcone?", options: [ "Grande", "Piccolo", "Medio" ], correct: 1 },
+          { question: "Cosa coltiva?", options: [ "Solo fiori", "Solo verdure", "Erbe, pomodorini e fiori" ], correct: 2 },
+          { question: "Con cosa cucina ora?", options: [ "Erbe comprate", "Le sue erbe", "Niente" ], correct: 1 }
         ]
       },
 
@@ -1899,12 +1899,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["New language learning", "Visual communication", "Progressive understanding"]
+          points: [ "New language learning", "Visual communication", "Progressive understanding" ]
         },
         questions: [
-          { question: "Com'è l'insegnante?", options: ["Udente", "Sorda", "Cieca"], correct: 1 },
-          { question: "Con cosa si inizia?", options: ["Frasi complesse", "L'alfabeto", "Numeri"], correct: 1 },
-          { question: "Com'è questa lingua?", options: ["Vocale", "Scritta", "Visiva"], correct: 2 }
+          { question: "Com'è l'insegnante?", options: [ "Udente", "Sorda", "Cieca" ], correct: 1 },
+          { question: "Con cosa si inizia?", options: [ "Frasi complesse", "L'alfabeto", "Numeri" ], correct: 1 },
+          { question: "Com'è questa lingua?", options: [ "Vocale", "Scritta", "Visiva" ], correct: 2 }
         ]
       },
 
@@ -1931,12 +1931,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Environmental action", "Creative transformation", "Social impact"]
+          points: [ "Environmental action", "Creative transformation", "Social impact" ]
         },
         questions: [
-          { question: "Cosa fa con i materiali di scarto?", options: ["Li butta", "Li trasforma", "Li nasconde"], correct: 1 },
-          { question: "Dove vanno i proventi?", options: ["Li tiene", "In beneficenza", "Agli amici"], correct: 1 },
-          { question: "Chi si unisce al progetto?", options: ["Nessuno", "Altri", "Solo famiglia"], correct: 1 }
+          { question: "Cosa fa con i materiali di scarto?", options: [ "Li butta", "Li trasforma", "Li nasconde" ], correct: 1 },
+          { question: "Dove vanno i proventi?", options: [ "Li tiene", "In beneficenza", "Agli amici" ], correct: 1 },
+          { question: "Chi si unisce al progetto?", options: [ "Nessuno", "Altri", "Solo famiglia" ], correct: 1 }
         ]
       },
 
@@ -1963,12 +1963,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Dance as communication", "Partner dynamics", "Cultural immersion"]
+          points: [ "Dance as communication", "Partner dynamics", "Cultural immersion" ]
         },
         questions: [
-          { question: "Da dove viene l'insegnante?", options: ["Italia", "Argentina", "Spagna"], correct: 1 },
-          { question: "Cos'è una milonga?", options: ["Una canzone", "Una serata di ballo", "Un passo"], correct: 1 },
-          { question: "Fino a quando balla?", options: ["Mezzanotte", "All'alba", "Alle due"], correct: 1 }
+          { question: "Da dove viene l'insegnante?", options: [ "Italia", "Argentina", "Spagna" ], correct: 1 },
+          { question: "Cos'è una milonga?", options: [ "Una canzone", "Una serata di ballo", "Un passo" ], correct: 1 },
+          { question: "Fino a quando balla?", options: [ "Mezzanotte", "All'alba", "Alle due" ], correct: 1 }
         ]
       },
 
@@ -1995,12 +1995,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Animal care vocabulary", "Emotional connections", "Volunteer work"]
+          points: [ "Animal care vocabulary", "Emotional connections", "Volunteer work" ]
         },
         questions: [
-          { question: "Cosa ospita il rifugio?", options: ["Solo cani", "Cani e gatti", "Tutti gli animali"], correct: 1 },
-          { question: "Come sono molti animali?", options: ["Felici", "Traumatizzati", "Aggressivi"], correct: 1 },
-          { question: "Qual è la gioia più grande?", options: ["Pulire", "L'adozione", "Il cibo"], correct: 1 }
+          { question: "Cosa ospita il rifugio?", options: [ "Solo cani", "Cani e gatti", "Tutti gli animali" ], correct: 1 },
+          { question: "Come sono molti animali?", options: [ "Felici", "Traumatizzati", "Aggressivi" ], correct: 1 },
+          { question: "Qual è la gioia più grande?", options: [ "Pulire", "L'adozione", "Il cibo" ], correct: 1 }
         ]
       },
 
@@ -2027,12 +2027,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Art vocabulary", "Color mixing", "Creative expression"]
+          points: [ "Art vocabulary", "Color mixing", "Creative expression" ]
         },
         questions: [
-          { question: "Con cosa iniziano?", options: ["Ritratti", "Nature morte", "Paesaggi"], correct: 1 },
-          { question: "Cosa dipinge per primo?", options: ["Un ritratto", "Una natura morta", "Un paesaggio"], correct: 2 },
-          { question: "Cosa dice l'insegnante?", options: ["È negata", "Ha talento", "Deve smettere"], correct: 1 }
+          { question: "Con cosa iniziano?", options: [ "Ritratti", "Nature morte", "Paesaggi" ], correct: 1 },
+          { question: "Cosa dipinge per primo?", options: [ "Un ritratto", "Una natura morta", "Un paesaggio" ], correct: 2 },
+          { question: "Cosa dice l'insegnante?", options: [ "È negata", "Ha talento", "Deve smettere" ], correct: 1 }
         ]
       },
 
@@ -2059,12 +2059,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Festival vocabulary", "International comparisons", "Food and drink pairings"]
+          points: [ "Festival vocabulary", "International comparisons", "Food and drink pairings" ]
         },
         questions: [
-          { question: "Da dove vengono i birrifici?", options: ["Solo Italia", "Tutta Europa", "Solo Germania"], correct: 1 },
-          { question: "Com'è la birra belga?", options: ["Leggera", "Forte", "Dolce"], correct: 1 },
-          { question: "Com'è l'atmosfera?", options: ["Triste", "Noiosa", "Festosa"], correct: 2 }
+          { question: "Da dove vengono i birrifici?", options: [ "Solo Italia", "Tutta Europa", "Solo Germania" ], correct: 1 },
+          { question: "Com'è la birra belga?", options: [ "Leggera", "Forte", "Dolce" ], correct: 1 },
+          { question: "Com'è l'atmosfera?", options: [ "Triste", "Noiosa", "Festosa" ], correct: 2 }
         ]
       },
 
@@ -2091,12 +2091,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Writing techniques", "Group feedback", "Publishing process"]
+          points: [ "Writing techniques", "Group feedback", "Publishing process" ]
         },
         questions: [
-          { question: "Chi guida il laboratorio?", options: ["Un principiante", "Uno scrittore famoso", "Un editore"], correct: 1 },
-          { question: "Quanti sono i partecipanti?", options: ["Dieci", "Quindici", "Venti"], correct: 1 },
-          { question: "Cosa pubblicano alla fine?", options: ["Un romanzo", "Un'antologia", "Un giornale"], correct: 1 }
+          { question: "Chi guida il laboratorio?", options: [ "Un principiante", "Uno scrittore famoso", "Un editore" ], correct: 1 },
+          { question: "Quanti sono i partecipanti?", options: [ "Dieci", "Quindici", "Venti" ], correct: 1 },
+          { question: "Cosa pubblicano alla fine?", options: [ "Un romanzo", "Un'antologia", "Un giornale" ], correct: 1 }
         ]
       },
 
@@ -2123,12 +2123,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Solo travel vocabulary", "Self-discovery", "Cultural exploration"]
+          points: [ "Solo travel vocabulary", "Self-discovery", "Cultural exploration" ]
         },
         questions: [
-          { question: "È la prima volta che viaggia sola?", options: ["No", "Sì", "È la seconda"], correct: 1 },
-          { question: "Cosa fa la sera?", options: ["Dorme subito", "Scrive un diario", "Guarda la TV"], correct: 1 },
-          { question: "Com'è questo viaggio?", options: ["Solo fisico", "Dentro se stessa", "Noioso"], correct: 1 }
+          { question: "È la prima volta che viaggia sola?", options: [ "No", "Sì", "È la seconda" ], correct: 1 },
+          { question: "Cosa fa la sera?", options: [ "Dorme subito", "Scrive un diario", "Guarda la TV" ], correct: 1 },
+          { question: "Com'è questo viaggio?", options: [ "Solo fisico", "Dentro se stessa", "Noioso" ], correct: 1 }
         ]
       },
 
@@ -2155,12 +2155,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Urban agriculture", "Community organizing", "Environmental education"]
+          points: [ "Urban agriculture", "Community organizing", "Environmental education" ]
         },
         questions: [
-          { question: "Cosa manca in città?", options: ["Edifici", "Il verde", "Gente"], correct: 1 },
-          { question: "Chi coinvolge nel progetto?", options: ["Stranieri", "I vicini", "Il sindaco"], correct: 1 },
-          { question: "Come reagiscono altri palazzi?", options: ["Ignorano", "Partecipano", "Protestano"], correct: 1 }
+          { question: "Cosa manca in città?", options: [ "Edifici", "Il verde", "Gente" ], correct: 1 },
+          { question: "Chi coinvolge nel progetto?", options: [ "Stranieri", "I vicini", "Il sindaco" ], correct: 1 },
+          { question: "Come reagiscono altri palazzi?", options: [ "Ignorano", "Partecipano", "Protestano" ], correct: 1 }
         ]
       },
 
@@ -2187,12 +2187,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Professional cooking", "High-level techniques", "Career aspirations"]
+          points: [ "Professional cooking", "High-level techniques", "Career aspirations" ]
         },
         questions: [
-          { question: "Chi tiene il master class?", options: ["Un cuoco normale", "Uno chef stellato", "Un professore"], correct: 1 },
-          { question: "Quanti sono gli studenti?", options: ["Dieci", "Otto", "Dodici"], correct: 1 },
-          { question: "Cosa sogna di fare?", options: ["Viaggiare", "Aprire un ristorante", "Scrivere un libro"], correct: 1 }
+          { question: "Chi tiene il master class?", options: [ "Un cuoco normale", "Uno chef stellato", "Un professore" ], correct: 1 },
+          { question: "Quanti sono gli studenti?", options: [ "Dieci", "Otto", "Dodici" ], correct: 1 },
+          { question: "Cosa sogna di fare?", options: [ "Viaggiare", "Aprire un ristorante", "Scrivere un libro" ], correct: 1 }
         ]
       },
 
@@ -2219,12 +2219,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Digital media vocabulary", "Content creation", "Career development"]
+          points: [ "Digital media vocabulary", "Content creation", "Career development" ]
         },
         questions: [
-          { question: "Di cosa parla il podcast?", options: ["Di cucina", "Di viaggi", "Di sport"], correct: 1 },
-          { question: "Come sono le prime puntate?", options: ["Perfette", "Imperfette", "Professionali"], correct: 1 },
-          { question: "Cosa è diventato il podcast?", options: ["Un hobby", "Il suo lavoro", "Un problema"], correct: 1 }
+          { question: "Di cosa parla il podcast?", options: [ "Di cucina", "Di viaggi", "Di sport" ], correct: 1 },
+          { question: "Come sono le prime puntate?", options: [ "Perfette", "Imperfette", "Professionali" ], correct: 1 },
+          { question: "Cosa è diventato il podcast?", options: [ "Un hobby", "Il suo lavoro", "Un problema" ], correct: 1 }
         ]
       },
 
@@ -2251,12 +2251,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Animal welfare vocabulary", "Community action", "Care and responsibility"]
+          points: [ "Animal welfare vocabulary", "Community action", "Care and responsibility" ]
         },
         questions: [
-          { question: "Chi sono i gatti?", options: ["Domestici", "Randagi", "Selvatici"], correct: 1 },
-          { question: "Cosa organizza per aiutare?", options: ["Una festa", "Una raccolta fondi", "Una protesta"], correct: 1 },
-          { question: "Come reagiscono i gatti?", options: ["Scappano", "Mi riconoscono", "Sono aggressivi"], correct: 1 }
+          { question: "Chi sono i gatti?", options: [ "Domestici", "Randagi", "Selvatici" ], correct: 1 },
+          { question: "Cosa organizza per aiutare?", options: [ "Una festa", "Una raccolta fondi", "Una protesta" ], correct: 1 },
+          { question: "Come reagiscono i gatti?", options: [ "Scappano", "Mi riconoscono", "Sono aggressivi" ], correct: 1 }
         ]
       },
 
@@ -2283,12 +2283,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Photography techniques", "Professional development", "Artistic expression"]
+          points: [ "Photography techniques", "Professional development", "Artistic expression" ]
         },
         questions: [
-          { question: "Chi è l'insegnante?", options: ["Un dilettante", "Un professionista", "Uno studente"], correct: 1 },
-          { question: "Cosa fanno con le foto?", options: ["Le cancellano", "Le elaborano", "Le vendono subito"], correct: 1 },
-          { question: "Cosa riceve alla mostra?", options: ["Critiche", "Proposte", "Niente"], correct: 1 }
+          { question: "Chi è l'insegnante?", options: [ "Un dilettante", "Un professionista", "Uno studente" ], correct: 1 },
+          { question: "Cosa fanno con le foto?", options: [ "Le cancellano", "Le elaborano", "Le vendono subito" ], correct: 1 },
+          { question: "Cosa riceve alla mostra?", options: [ "Critiche", "Proposte", "Niente" ], correct: 1 }
         ]
       },
 
@@ -2315,12 +2315,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Seasonal eating", "Direct purchasing", "Local support"]
+          points: [ "Seasonal eating", "Direct purchasing", "Local support" ]
         },
         questions: [
-          { question: "Perché preferisce questo mercato?", options: ["È economico", "Prodotti genuini", "È vicino"], correct: 1 },
-          { question: "Come coltivano i produttori?", options: ["Con pesticidi", "Senza pesticidi", "Non si sa"], correct: 1 },
-          { question: "Cosa compra in primavera?", options: ["Mele", "Fragole", "Pesche"], correct: 1 }
+          { question: "Perché preferisce questo mercato?", options: [ "È economico", "Prodotti genuini", "È vicino" ], correct: 1 },
+          { question: "Come coltivano i produttori?", options: [ "Con pesticidi", "Senza pesticidi", "Non si sa" ], correct: 1 },
+          { question: "Cosa compra in primavera?", options: [ "Mele", "Fragole", "Pesche" ], correct: 1 }
         ]
       },
 
@@ -2347,12 +2347,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Urban art vocabulary", "Artistic transformation", "Cultural permanence"]
+          points: [ "Urban art vocabulary", "Artistic transformation", "Cultural permanence" ]
         },
         questions: [
-          { question: "Da dove vengono gli artisti?", options: ["Solo locali", "Da tutto il mondo", "Solo europei"], correct: 1 },
-          { question: "Come diventa la città?", options: ["Più brutta", "Una galleria a cielo aperto", "Uguale"], correct: 1 },
-          { question: "Quanto dura l'arte?", options: ["Una settimana", "Un mese", "Per sempre"], correct: 2 }
+          { question: "Da dove vengono gli artisti?", options: [ "Solo locali", "Da tutto il mondo", "Solo europei" ], correct: 1 },
+          { question: "Come diventa la città?", options: [ "Più brutta", "Una galleria a cielo aperto", "Uguale" ], correct: 1 },
+          { question: "Quanto dura l'arte?", options: [ "Una settimana", "Un mese", "Per sempre" ], correct: 2 }
         ]
       },
 
@@ -2379,12 +2379,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Cooperative economics", "Food distribution", "Social education"]
+          points: [ "Cooperative economics", "Food distribution", "Social education" ]
         },
         questions: [
-          { question: "Da chi comprano?", options: ["Dai supermercati", "Direttamente dai produttori", "Dagli intermediari"], correct: 1 },
-          { question: "Quante volte distribuiscono?", options: ["Ogni giorno", "Una volta a settimana", "Una volta al mese"], correct: 1 },
-          { question: "Cosa insegnano ai bambini?", options: ["A cucinare", "Da dove viene il cibo", "A vendere"], correct: 1 }
+          { question: "Da chi comprano?", options: [ "Dai supermercati", "Direttamente dai produttori", "Dagli intermediari" ], correct: 1 },
+          { question: "Quante volte distribuiscono?", options: [ "Ogni giorno", "Una volta a settimana", "Una volta al mese" ], correct: 1 },
+          { question: "Cosa insegnano ai bambini?", options: [ "A cucinare", "Da dove viene il cibo", "A vendere" ], correct: 1 }
         ]
       },
 
@@ -2411,12 +2411,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Dance vocabulary", "Physical movement", "Cultural immersion"]
+          points: [ "Dance vocabulary", "Physical movement", "Cultural immersion" ]
         },
         questions: [
-          { question: "Da dove viene l'insegnante?", options: ["Dal Brasile", "Dalla Colombia", "Dal Messico"], correct: 1 },
-          { question: "Cosa è fondamentale?", options: ["Le braccia", "Il movimento dei fianchi", "La voce"], correct: 1 },
-          { question: "Quanto dura il corso?", options: ["Un mese", "Due mesi", "Tre mesi"], correct: 2 }
+          { question: "Da dove viene l'insegnante?", options: [ "Dal Brasile", "Dalla Colombia", "Dal Messico" ], correct: 1 },
+          { question: "Cosa è fondamentale?", options: [ "Le braccia", "Il movimento dei fianchi", "La voce" ], correct: 1 },
+          { question: "Quanto dura il corso?", options: [ "Un mese", "Due mesi", "Tre mesi" ], correct: 2 }
         ]
       },
 
@@ -2443,15 +2443,15 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Alternative economy", "Skill exchange", "Community building"]
+          points: [ "Alternative economy", "Skill exchange", "Community building" ]
         },
         questions: [
-          { question: "Cosa si scambia nel bartering?", options: ["Solo denaro", "Beni senza denaro", "Solo servizi"], correct: 1 },
-          { question: "Su cosa si basa questa economia?", options: ["Sul denaro", "Sulle competenze", "Sul credito"], correct: 1 },
-          { question: "Come gestiscono gli scambi?", options: ["A memoria", "Con un'app", "Con carta"], correct: 1 }
+          { question: "Cosa si scambia nel bartering?", options: [ "Solo denaro", "Beni senza denaro", "Solo servizi" ], correct: 1 },
+          { question: "Su cosa si basa questa economia?", options: [ "Sul denaro", "Sulle competenze", "Sul credito" ], correct: 1 },
+          { question: "Come gestiscono gli scambi?", options: [ "A memoria", "Con un'app", "Con carta" ], correct: 1 }
         ]
       },
-      
+
       # Story 80
       {
         position: 80,
@@ -2475,12 +2475,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Circus arts", "Physical challenges", "Mental benefits"]
+          points: [ "Circus arts", "Physical challenges", "Mental benefits" ]
         },
         questions: [
-          { question: "Cosa sognava da bambina?", options: ["Il teatro", "Il circo", "Il cinema"], correct: 1 },
-          { question: "Cosa prova il primo giorno?", options: ["La giocoleria", "Il trapezio", "L'equilibrismo"], correct: 1 },
-          { question: "Com'è l'esperienza?", options: ["Solo fisica", "Terapeutica", "Inutile"], correct: 1 }
+          { question: "Cosa sognava da bambina?", options: [ "Il teatro", "Il circo", "Il cinema" ], correct: 1 },
+          { question: "Cosa prova il primo giorno?", options: [ "La giocoleria", "Il trapezio", "L'equilibrismo" ], correct: 1 },
+          { question: "Com'è l'esperienza?", options: [ "Solo fisica", "Terapeutica", "Inutile" ], correct: 1 }
         ]
       },
 
@@ -2507,12 +2507,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Social issues", "Documentary impact", "Awareness raising"]
+          points: [ "Social issues", "Documentary impact", "Awareness raising" ]
         },
         questions: [
-          { question: "A cosa è dedicato il festival?", options: ["Al cinema commerciale", "Ai temi sociali", "Alle commedie"], correct: 1 },
-          { question: "Chi è presente al festival?", options: ["Solo pubblico", "I registi", "Solo critici"], correct: 1 },
-          { question: "Come torna a casa?", options: ["Deluso", "Più consapevole", "Annoiato"], correct: 1 }
+          { question: "A cosa è dedicato il festival?", options: [ "Al cinema commerciale", "Ai temi sociali", "Alle commedie" ], correct: 1 },
+          { question: "Chi è presente al festival?", options: [ "Solo pubblico", "I registi", "Solo critici" ], correct: 1 },
+          { question: "Come torna a casa?", options: [ "Deluso", "Più consapevole", "Annoiato" ], correct: 1 }
         ]
       },
 
@@ -2539,12 +2539,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Art techniques", "Eastern culture", "Meditative practice"]
+          points: [ "Art techniques", "Eastern culture", "Meditative practice" ]
         },
         questions: [
-          { question: "Chi è l'insegnante?", options: ["Un italiano", "Un maestro giapponese", "Un cinese"], correct: 1 },
-          { question: "Com'è il primo carattere?", options: ["Complesso", "Semplice", "Impossibile"], correct: 1 },
-          { question: "Qual è l'effetto della calligrafia?", options: ["Stressa", "Calma la mente", "Annoia"], correct: 1 }
+          { question: "Chi è l'insegnante?", options: [ "Un italiano", "Un maestro giapponese", "Un cinese" ], correct: 1 },
+          { question: "Com'è il primo carattere?", options: [ "Complesso", "Semplice", "Impossibile" ], correct: 1 },
+          { question: "Qual è l'effetto della calligrafia?", options: [ "Stressa", "Calma la mente", "Annoia" ], correct: 1 }
         ]
       },
 
@@ -2571,12 +2571,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Social entrepreneurship", "Intergenerational connection", "Technology for good"]
+          points: [ "Social entrepreneurship", "Intergenerational connection", "Technology for good" ]
         },
         questions: [
-          { question: "Chi aiuta la startup?", options: ["I bambini", "Gli anziani", "I ricchi"], correct: 1 },
-          { question: "Cosa offrono i giovani?", options: ["Solo soldi", "Servizi e compagnia", "Niente"], correct: 1 },
-          { question: "Cosa vincono?", options: ["Soldi", "Un premio per l'innovazione sociale", "Una casa"], correct: 1 }
+          { question: "Chi aiuta la startup?", options: [ "I bambini", "Gli anziani", "I ricchi" ], correct: 1 },
+          { question: "Cosa offrono i giovani?", options: [ "Solo soldi", "Servizi e compagnia", "Niente" ], correct: 1 },
+          { question: "Cosa vincono?", options: [ "Soldi", "Un premio per l'innovazione sociale", "Una casa" ], correct: 1 }
         ]
       },
 
@@ -2603,12 +2603,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Repair culture", "Environmental consciousness", "Community learning"]
+          points: [ "Repair culture", "Environmental consciousness", "Community learning" ]
         },
         questions: [
-          { question: "Quanto costa il servizio?", options: ["Molto", "Poco", "È gratuito"], correct: 2 },
-          { question: "Contro cosa è il laboratorio?", options: ["La riparazione", "L'usa e getta", "Il riciclo"], correct: 1 },
-          { question: "Cosa imparano i bambini?", options: ["A rompere", "Che nulla è irrecuperabile", "A comprare"], correct: 1 }
+          { question: "Quanto costa il servizio?", options: [ "Molto", "Poco", "È gratuito" ], correct: 2 },
+          { question: "Contro cosa è il laboratorio?", options: [ "La riparazione", "L'usa e getta", "Il riciclo" ], correct: 1 },
+          { question: "Cosa imparano i bambini?", options: [ "A rompere", "Che nulla è irrecuperabile", "A comprare" ], correct: 1 }
         ]
       },
 
@@ -2635,12 +2635,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Yoga vocabulary", "Body and mind", "Life changes"]
+          points: [ "Yoga vocabulary", "Body and mind", "Life changes" ]
         },
         questions: [
-          { question: "Perché inizia lo yoga?", options: ["Per sport", "È stressata dal lavoro", "Per dimagrire"], correct: 1 },
-          { question: "Com'è all'inizio?", options: ["Molto flessibile", "Poco flessibile", "Normale"], correct: 1 },
-          { question: "Come si sente dopo?", options: ["Stanca", "Rigenerata", "Uguale"], correct: 1 }
+          { question: "Perché inizia lo yoga?", options: [ "Per sport", "È stressata dal lavoro", "Per dimagrire" ], correct: 1 },
+          { question: "Com'è all'inizio?", options: [ "Molto flessibile", "Poco flessibile", "Normale" ], correct: 1 },
+          { question: "Come si sente dopo?", options: [ "Stanca", "Rigenerata", "Uguale" ], correct: 1 }
         ]
       },
 
@@ -2667,12 +2667,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Financial cooperation", "Small business support", "Trust-based economy"]
+          points: [ "Financial cooperation", "Small business support", "Trust-based economy" ]
         },
         questions: [
-          { question: "Chi aiuta il microcredito?", options: ["Grandi aziende", "Piccoli imprenditori", "Banche"], correct: 1 },
-          { question: "Come sono gli interessi?", options: ["Alti", "Bassi o zero", "Variabili"], correct: 1 },
-          { question: "Su cosa si basa?", options: ["Sul profitto", "Sulla fiducia", "Sulla competizione"], correct: 1 }
+          { question: "Chi aiuta il microcredito?", options: [ "Grandi aziende", "Piccoli imprenditori", "Banche" ], correct: 1 },
+          { question: "Come sono gli interessi?", options: [ "Alti", "Bassi o zero", "Variabili" ], correct: 1 },
+          { question: "Su cosa si basa?", options: [ "Sul profitto", "Sulla fiducia", "Sulla competizione" ], correct: 1 }
         ]
       },
 
@@ -2699,12 +2699,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Film production", "Creative process", "Festival participation"]
+          points: [ "Film production", "Creative process", "Festival participation" ]
         },
         questions: [
-          { question: "Quanto dura il corso?", options: ["Un anno", "Due anni", "Tre anni"], correct: 1 },
-          { question: "Qual è il primo progetto?", options: ["Un lungometraggio", "Un cortometraggio", "Un documentario"], correct: 1 },
-          { question: "Cosa succede al festival?", options: ["Vince", "È selezionato", "È rifiutato"], correct: 1 }
+          { question: "Quanto dura il corso?", options: [ "Un anno", "Due anni", "Tre anni" ], correct: 1 },
+          { question: "Qual è il primo progetto?", options: [ "Un lungometraggio", "Un cortometraggio", "Un documentario" ], correct: 1 },
+          { question: "Cosa succede al festival?", options: [ "Vince", "È selezionato", "È rifiutato" ], correct: 1 }
         ]
       },
 
@@ -2731,12 +2731,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Cultural development", "Community spaces", "Volunteer management"]
+          points: [ "Cultural development", "Community spaces", "Volunteer management" ]
         },
         questions: [
-          { question: "Cosa manca nel quartiere?", options: ["Negozi", "Cultura", "Case"], correct: 1 },
-          { question: "Chi gestisce il centro?", options: ["Il comune", "Volontari", "Un'azienda"], correct: 1 },
-          { question: "Cosa è diventato il centro?", options: ["Un problema", "Il cuore del quartiere", "Un fallimento"], correct: 1 }
+          { question: "Cosa manca nel quartiere?", options: [ "Negozi", "Cultura", "Case" ], correct: 1 },
+          { question: "Chi gestisce il centro?", options: [ "Il comune", "Volontari", "Un'azienda" ], correct: 1 },
+          { question: "Cosa è diventato il centro?", options: [ "Un problema", "Il cuore del quartiere", "Un fallimento" ], correct: 1 }
         ]
       },
 
@@ -2763,12 +2763,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Environmental action", "Lifestyle change", "Movement building"]
+          points: [ "Environmental action", "Lifestyle change", "Movement building" ]
         },
         questions: [
-          { question: "Qual è l'obiettivo?", options: ["Produrre più rifiuti", "Ridurre i rifiuti", "Ignorare i rifiuti"], correct: 1 },
-          { question: "Come reagisce la famiglia inizialmente?", options: ["È entusiasta", "Protesta", "È indifferente"], correct: 1 },
-          { question: "Cosa succede al movimento?", options: ["Fallisce", "Cresce", "Resta uguale"], correct: 1 }
+          { question: "Qual è l'obiettivo?", options: [ "Produrre più rifiuti", "Ridurre i rifiuti", "Ignorare i rifiuti" ], correct: 1 },
+          { question: "Come reagisce la famiglia inizialmente?", options: [ "È entusiasta", "Protesta", "È indifferente" ], correct: 1 },
+          { question: "Cosa succede al movimento?", options: [ "Fallisce", "Cresce", "Resta uguale" ], correct: 1 }
         ]
       },
 
@@ -2795,12 +2795,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Artisan business", "Fair trade", "Teaching crafts"]
+          points: [ "Artisan business", "Fair trade", "Teaching crafts" ]
         },
         questions: [
-          { question: "Cosa vende nella bottega?", options: ["Cibo", "Oggetti fatti a mano", "Vestiti industriali"], correct: 1 },
-          { question: "Con chi collabora?", options: ["Grandi aziende", "Artisti locali", "Negozi online"], correct: 1 },
-          { question: "Com'è il successo?", options: ["Immediato", "Lento ma solido", "Non c'è"], correct: 1 }
+          { question: "Cosa vende nella bottega?", options: [ "Cibo", "Oggetti fatti a mano", "Vestiti industriali" ], correct: 1 },
+          { question: "Con chi collabora?", options: [ "Grandi aziende", "Artisti locali", "Negozi online" ], correct: 1 },
+          { question: "Com'è il successo?", options: [ "Immediato", "Lento ma solido", "Non c'è" ], correct: 1 }
         ]
       },
 
@@ -2827,12 +2827,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Cultural preservation", "Traditional crafts", "Intergenerational transmission"]
+          points: [ "Cultural preservation", "Traditional crafts", "Intergenerational transmission" ]
         },
         questions: [
-          { question: "Perché organizzano il festival?", options: ["Per divertimento", "Per non perdere la memoria", "Per soldi"], correct: 1 },
-          { question: "Chi mostra i mestieri?", options: ["I giovani", "Gli anziani", "Gli stranieri"], correct: 1 },
-          { question: "Quanto dura il festival?", options: ["Un giorno", "Due giorni", "Tre giorni"], correct: 2 }
+          { question: "Perché organizzano il festival?", options: [ "Per divertimento", "Per non perdere la memoria", "Per soldi" ], correct: 1 },
+          { question: "Chi mostra i mestieri?", options: [ "I giovani", "Gli anziani", "Gli stranieri" ], correct: 1 },
+          { question: "Quanto dura il festival?", options: [ "Un giorno", "Due giorni", "Tre giorni" ], correct: 2 }
         ]
       },
 
@@ -2859,12 +2859,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Narrative structure", "Performance techniques", "Personal expression"]
+          points: [ "Narrative structure", "Performance techniques", "Personal expression" ]
         },
         questions: [
-          { question: "Cosa deve fare il narratore?", options: ["Annoiare", "Coinvolgere", "Dormire"], correct: 1 },
-          { question: "Con cosa praticano?", options: ["Storie inventate", "Storie personali", "Storie famose"], correct: 1 },
-          { question: "Come finisce il laboratorio?", options: ["Con un esame", "Con uno spettacolo", "Con niente"], correct: 1 }
+          { question: "Cosa deve fare il narratore?", options: [ "Annoiare", "Coinvolgere", "Dormire" ], correct: 1 },
+          { question: "Con cosa praticano?", options: [ "Storie inventate", "Storie personali", "Storie famose" ], correct: 1 },
+          { question: "Come finisce il laboratorio?", options: [ "Con un esame", "Con uno spettacolo", "Con niente" ], correct: 1 }
         ]
       },
 
@@ -2891,12 +2891,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Sharing economy concepts", "Resource optimization", "Community trust"]
+          points: [ "Sharing economy concepts", "Resource optimization", "Community trust" ]
         },
         questions: [
-          { question: "Qual è l'idea principale?", options: ["Comprare di più", "Condividere invece di possedere", "Buttare tutto"], correct: 1 },
-          { question: "Con cosa funziona?", options: ["Solo libri", "Solo attrezzi", "Con tutto"], correct: 2 },
-          { question: "Cosa si crea nel quartiere?", options: ["Problemi", "Fiducia e comunità", "Competizione"], correct: 1 }
+          { question: "Qual è l'idea principale?", options: [ "Comprare di più", "Condividere invece di possedere", "Buttare tutto" ], correct: 1 },
+          { question: "Con cosa funziona?", options: [ "Solo libri", "Solo attrezzi", "Con tutto" ], correct: 2 },
+          { question: "Cosa si crea nel quartiere?", options: [ "Problemi", "Fiducia e comunità", "Competizione" ], correct: 1 }
         ]
       },
 
@@ -2923,12 +2923,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Personal safety", "Physical and mental strength", "Empowerment"]
+          points: [ "Personal safety", "Physical and mental strength", "Empowerment" ]
         },
         questions: [
-          { question: "Per chi è la scuola?", options: ["Per tutti", "Per donne", "Per bambini"], correct: 1 },
-          { question: "Cosa è importante?", options: ["Solo la forza", "La prevenzione", "L'aggressività"], correct: 1 },
-          { question: "Come si sente dopo tre mesi?", options: ["Uguale", "Più debole", "Più forte fisicamente e mentalmente"], correct: 2 }
+          { question: "Per chi è la scuola?", options: [ "Per tutti", "Per donne", "Per bambini" ], correct: 1 },
+          { question: "Cosa è importante?", options: [ "Solo la forza", "La prevenzione", "L'aggressività" ], correct: 1 },
+          { question: "Come si sente dopo tre mesi?", options: [ "Uguale", "Più debole", "Più forte fisicamente e mentalmente" ], correct: 2 }
         ]
       },
 
@@ -2955,12 +2955,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Alternative living", "Community building", "Shared spaces"]
+          points: [ "Alternative living", "Community building", "Shared spaces" ]
         },
         questions: [
-          { question: "Cos'è il cohousing?", options: ["Case separate", "Spazi condivisi", "Hotel"], correct: 1 },
-          { question: "Come prendono decisioni?", options: ["Da soli", "Tutti insieme", "Il capo decide"], correct: 1 },
-          { question: "È più di cosa?", options: ["Abitare", "Lavorare", "Studiare"], correct: 0 }
+          { question: "Cos'è il cohousing?", options: [ "Case separate", "Spazi condivisi", "Hotel" ], correct: 1 },
+          { question: "Come prendono decisioni?", options: [ "Da soli", "Tutti insieme", "Il capo decide" ], correct: 1 },
+          { question: "È più di cosa?", options: [ "Abitare", "Lavorare", "Studiare" ], correct: 0 }
         ]
       },
 
@@ -2987,12 +2987,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Music education", "Institutional development", "Community impact"]
+          points: [ "Music education", "Institutional development", "Community impact" ]
         },
         questions: [
-          { question: "Per chi è l'accademia?", options: ["Solo bambini", "Tutte le età", "Solo adulti"], correct: 1 },
-          { question: "Cosa organizzano ogni trimestre?", options: ["Concerti", "Saggi", "Esami"], correct: 1 },
-          { question: "Cosa diventa l'accademia?", options: ["Un problema", "Punto di riferimento musicale", "Un fallimento"], correct: 1 }
+          { question: "Per chi è l'accademia?", options: [ "Solo bambini", "Tutte le età", "Solo adulti" ], correct: 1 },
+          { question: "Cosa organizzano ogni trimestre?", options: [ "Concerti", "Saggi", "Esami" ], correct: 1 },
+          { question: "Cosa diventa l'accademia?", options: [ "Un problema", "Punto di riferimento musicale", "Un fallimento" ], correct: 1 }
         ]
       },
 
@@ -3019,12 +3019,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Sustainable development", "Cultural tourism", "Community involvement"]
+          points: [ "Sustainable development", "Cultural tourism", "Community involvement" ]
         },
         questions: [
-          { question: "Qual è l'idea del progetto?", options: ["Sfruttare", "Valorizzare senza sfruttare", "Distruggere"], correct: 1 },
-          { question: "Chi coinvolge?", options: ["Grandi hotel", "Comunità locali", "Multinazionali"], correct: 1 },
-          { question: "Che tipo di turismo è?", options: ["Di massa", "Lento e responsabile", "Veloce"], correct: 1 }
+          { question: "Qual è l'idea del progetto?", options: [ "Sfruttare", "Valorizzare senza sfruttare", "Distruggere" ], correct: 1 },
+          { question: "Chi coinvolge?", options: [ "Grandi hotel", "Comunità locali", "Multinazionali" ], correct: 1 },
+          { question: "Che tipo di turismo è?", options: [ "Di massa", "Lento e responsabile", "Veloce" ], correct: 1 }
         ]
       },
 
@@ -3051,12 +3051,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Social innovation", "Human connection", "Breaking barriers"]
+          points: [ "Social innovation", "Human connection", "Breaking barriers" ]
         },
         questions: [
-          { question: "Cosa si presta nella biblioteca?", options: ["Libri", "Persone", "Computer"], correct: 1 },
-          { question: "Per quanto tempo si ascolta?", options: ["Un'ora", "Mezz'ora", "Due ore"], correct: 1 },
-          { question: "Cosa abbatte la biblioteca?", options: ["I muri", "I pregiudizi", "Le porte"], correct: 1 }
+          { question: "Cosa si presta nella biblioteca?", options: [ "Libri", "Persone", "Computer" ], correct: 1 },
+          { question: "Per quanto tempo si ascolta?", options: [ "Un'ora", "Mezz'ora", "Due ore" ], correct: 1 },
+          { question: "Cosa abbatte la biblioteca?", options: [ "I muri", "I pregiudizi", "Le porte" ], correct: 1 }
         ]
       },
 
@@ -3083,12 +3083,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Social entrepreneurship", "Collaborative problem-solving", "Future investment"]
+          points: [ "Social entrepreneurship", "Collaborative problem-solving", "Future investment" ]
         },
         questions: [
-          { question: "Quanto dura il festival?", options: ["Un giorno", "Tre giorni", "Una settimana"], correct: 1 },
-          { question: "Da dove vengono gli innovatori?", options: ["Solo locali", "Da tutto il mondo", "Solo europei"], correct: 1 },
-          { question: "Cosa ispira il festival?", options: ["Niente", "Cambiamento sociale", "Solo divertimento"], correct: 1 }
+          { question: "Quanto dura il festival?", options: [ "Un giorno", "Tre giorni", "Una settimana" ], correct: 1 },
+          { question: "Da dove vengono gli innovatori?", options: [ "Solo locali", "Da tutto il mondo", "Solo europei" ], correct: 1 },
+          { question: "Cosa ispira il festival?", options: [ "Niente", "Cambiamento sociale", "Solo divertimento" ], correct: 1 }
         ]
       },
 
@@ -3115,12 +3115,12 @@ module ItalianContent
           ]
         },
         grammar_points: {
-          points: ["Future preparedness", "Community resilience", "Mutual support"]
+          points: [ "Future preparedness", "Community resilience", "Mutual support" ]
         },
         questions: [
-          { question: "Qual è l'obiettivo?", options: ["Divertirsi", "Preparare il futuro incerto", "Fare soldi"], correct: 1 },
-          { question: "Come si aiutano le comunità?", options: ["Non si aiutano", "Condividono risorse", "Competono"], correct: 1 },
-          { question: "Cosa rende tutto possibile?", options: ["I soldi", "Essere insieme", "La tecnologia"], correct: 1 }
+          { question: "Qual è l'obiettivo?", options: [ "Divertirsi", "Preparare il futuro incerto", "Fare soldi" ], correct: 1 },
+          { question: "Come si aiutano le comunità?", options: [ "Non si aiutano", "Condividono risorse", "Competono" ], correct: 1 },
+          { question: "Cosa rende tutto possibile?", options: [ "I soldi", "Essere insieme", "La tecnologia" ], correct: 1 }
         ]
       }
     ]
