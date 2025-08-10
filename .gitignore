@@ -1,0 +1,51 @@
+# See https://help.github.com/articles/ignoring-files for more about ignoring files.
+
+# Bundler
+/.bundle
+/vendor/bundle/
+
+# Database
+/db/*.sqlite3
+/db/*.sqlite3-*
+
+# Logs and temp files
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Storage
+/storage/*
+!/storage/.keep
+/public/uploads
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Master key
+/config/master.key
+/config/credentials.yml.enc
+
+# Public assets
+/public/assets
+/public/packs
+/public/packs-test
+
+# Node
+/node_modules
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+.DS_Store
+
+# Test coverage
+/coverage
+EOF
